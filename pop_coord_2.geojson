@@ -1,0 +1,6185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.973316,
+          -22.057813,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AAI001",
+        "nome": "Site Aguaí Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.385503,
+          -22.354689,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AAS001",
+        "nome": "Site Araras Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.335956,
+          -22.35579,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AAS002",
+        "nome": "Site Araras Jose Ometto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.239658,
+          -22.881365,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ABB001",
+        "nome": "Site Águas de Santa Barbara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.108428,
+          -21.72962,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ABS001",
+        "nome": "Site Americo Brasiliense"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.053346,
+          -23.134232,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ADX001",
+        "nome": "Site Arandu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.661582,
+          -22.117235,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ADY001",
+        "nome": "Site Analândia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.98654,
+          -22.469336,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AGS001",
+        "nome": "Site Agudos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.554028,
+          -23.154767,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA001",
+        "nome": "Site Maristela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583668,
+          -23.088365,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA002",
+        "nome": "Site Epa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.567909,
+          -23.051526,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA003",
+        "nome": "Site Tanque Três Pista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.492667,
+          -23.103961,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA004",
+        "nome": "Site Porto Atibaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.553288,
+          -23.117615,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA005",
+        "nome": "Site Centro Starnet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.634841,
+          -23.06581,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA006",
+        "nome": "Site Pedreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.580156,
+          -23.13279,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA007",
+        "nome": "Site Imperial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575119,
+          -23.165986,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA009",
+        "nome": "Site Espaço Atibaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57869,
+          -23.100539,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AIA010",
+        "nome": "Site KM 75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "nan",
+          "nan",
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMI001",
+        "nome": "Alumínio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.252858,
+          -23.526342,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMIO01",
+        "nome": "Site Alumínio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.340036,
+          -22.75994,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR001",
+        "nome": "Site Dinamarca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.302575,
+          -22.74976,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR002",
+        "nome": "Site Najar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.294896,
+          -22.71662,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR003",
+        "nome": "Site Zanaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.345155,
+          -22.77131,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR004",
+        "nome": "Site Novo Mundo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.310364,
+          -22.7323,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR005",
+        "nome": "Site São Manoel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.330725,
+          -22.74356,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR006",
+        "nome": "Site Base Marrocos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.240199,
+          -22.74047,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR007",
+        "nome": "Site Praia Azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.33738,
+          -22.74969,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR008",
+        "nome": "Site de Cillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.255707,
+          -22.743684,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AMR009",
+        "nome": "Site Rodeio de Americana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062852,
+          -23.4392,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AREM01",
+        "nome": "Site Araçariguama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.672919,
+          -22.687621,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARL001",
+        "nome": "Site Areiopolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.195037,
+          -21.804321,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ001",
+        "nome": "Site Araraquara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.181546,
+          -21.831848,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ002",
+        "nome": "Site Alto da Boa Vista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.174748,
+          -21.80412,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ003",
+        "nome": "Site Edificio America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.165,
+          -21.817944,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ004",
+        "nome": "Site Oitis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.136649,
+          -21.748285,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ005",
+        "nome": "Site Posto Podium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15525,
+          -21.781361,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ006",
+        "nome": "Site Vaz Filho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.19625,
+          -21.760417,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ007",
+        "nome": "Site Village Dahma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.197556,
+          -21.784361,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ARQ008",
+        "nome": "Site Vitoria Busines S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.920544,
+          -23.098093,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "AVR001",
+        "nome": "Site Avaré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.562598,
+          -22.464217,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BBN001",
+        "nome": "Site Barra Bonita 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.562948,
+          -22.493804,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BBN002",
+        "nome": "Site Barra Bonita 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.554074,
+          -22.425927,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BBN003",
+        "nome": "Site Pq das Antenas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.07462,
+          -21.618699,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BBO001",
+        "nome": "Site Borborema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.491332,
+          -20.943194,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BDO001",
+        "nome": "Site Bebedouro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.387958,
+          -21.989881,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BEP001",
+        "nome": "Site Boa Esperança do Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.03968,
+          -23.572943,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BMM001",
+        "nome": "Site Biritiba Mirim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.970213,
+          -22.568288,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BOB001",
+        "nome": "Site Borebi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.156014,
+          -22.697339,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BOB002",
+        "nome": "Site BOREBI ASSENTAMENTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.51929,
+          -22.139733,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BOC001",
+        "nome": "Site Bocaina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.569479,
+          -20.554895,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRS001",
+        "nome": "Site Barretos Filial (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.562462,
+          -20.530948,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRS002",
+        "nome": "Site Dudu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.606657,
+          -20.547711,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRS003",
+        "nome": "Site San Diego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.765469,
+          -20.612224,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRS004",
+        "nome": "Site Ibitu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.030847,
+          -22.333073,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU001",
+        "nome": "Site A1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.009586,
+          -22.320926,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU002",
+        "nome": "Site B1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.05552,
+          -22.290589,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU003",
+        "nome": "Site C1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.097385,
+          -22.308181,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU004",
+        "nome": "Site D1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.096441,
+          -22.335162,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU005",
+        "nome": "Site E1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.07038,
+          -22.329619,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BRU006",
+        "nome": "Site F1 BAURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.473887,
+          -23.145724,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BSS001",
+        "nome": "Site São Marcos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.479411,
+          -23.117942,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BSS002",
+        "nome": "Site Santa Maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.299174,
+          -22.937798,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU001",
+        "nome": "Site ANHUMAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.454358,
+          -22.921202,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU002",
+        "nome": "Site BOTUCATU AREA C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.473819,
+          -22.873815,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU003",
+        "nome": "Site PSTA2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.441286,
+          -22.890505,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU004",
+        "nome": "Site CHANCELER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.448906,
+          -22.868874,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU005",
+        "nome": "Site CARMELO A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.499067,
+          -22.900719,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU006",
+        "nome": "Site BOTUCATU RUBIAO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.401995,
+          -22.779662,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BTU007",
+        "nome": "Site Vitoriana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.447612,
+          -20.91844,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "BYT001",
+        "nome": "Site Bady Bassitt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.41909,
+          -23.88254,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO001",
+        "nome": "Site Cubatão Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.403698,
+          -23.92849,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO002",
+        "nome": "Site Cubatão Casqueiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4213,
+          -23.920307,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO003",
+        "nome": "Site Bolsao 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43103,
+          -23.92117,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO004",
+        "nome": "Site Bolsão 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46249,
+          -23.91094,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO005",
+        "nome": "Site Vale Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43447,
+          -23.90221,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO006",
+        "nome": "Site Vila Natal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43124,
+          -23.93446,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO007",
+        "nome": "Site Caraguatá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44851,
+          -23.89863,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAO008",
+        "nome": "Site Esperança"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14315,
+          -22.9427,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS001",
+        "nome": "Site Satelite Íris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034403,
+          -22.8912,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS002",
+        "nome": "Site Jose Bonifácio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09676,
+          -22.98476,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS003",
+        "nome": "Site Mercedes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057375,
+          -22.90428,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS004",
+        "nome": "Site Ouro Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138206,
+          -22.96714,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS005",
+        "nome": "Site Ruy Rodrigues"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062529,
+          -22.95458,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS006",
+        "nome": "Site Swiss Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.184881,
+          -22.953678,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS007",
+        "nome": "Site Campo Grande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107282,
+          -22.93302,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS008",
+        "nome": "Site Campos Elísios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09397,
+          -22.89571,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS009",
+        "nome": "Site Eulina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04008,
+          -22.93084,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS010",
+        "nome": "Site Von Zubem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04259,
+          -22.85722,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS011",
+        "nome": "Site Dom Pedro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1691,
+          -22.97182,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS012",
+        "nome": "Site Vida Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.444537,
+          -22.553437,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS013",
+        "nome": "Site Remoto Vida Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185521,
+          -22.94169,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS014",
+        "nome": "Site Remoto Valença"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122452,
+          -22.88862,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS015",
+        "nome": "Site Remoto Via Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057338,
+          -22.908226,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS016",
+        "nome": "Site Sigma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137568,
+          -23.008205,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS017",
+        "nome": "Site Aeroporto Viracopos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104491,
+          -22.984627,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS018",
+        "nome": "Site Remoto Mercedes 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057878,
+          -22.95685,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CAS019",
+        "nome": "Site Remoto Parque Das Aguas 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08077,
+          -21.77684,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CBC001",
+        "nome": "Site Filial Casa Branca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11858,
+          -21.94927,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CBC002",
+        "nome": "Site Venda Branca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.456532,
+          -22.48247,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CDP001",
+        "nome": "Site Cordeirópolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.741321,
+          -23.36225,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CER001",
+        "nome": "Site Caieiras Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.744046,
+          -23.3418,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CER002",
+        "nome": "Site Caieiras Serpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.267132,
+          -20.901265,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CEX001",
+        "nome": "Site Cedral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.169568,
+          -22.33815,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CHL001",
+        "nome": "Site Conchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.541024,
+          -20.717832,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CLN001",
+        "nome": "Site Colina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19625,
+          -22.64436,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CMP001",
+        "nome": "Site Cosmopolis Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.786596,
+          -23.20714,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CMX001",
+        "nome": "Site Campo Limpo Paulista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.517244,
+          -23.0011,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CPR001",
+        "nome": "Site Capivari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.706319,
+          -23.099777,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CPV001",
+        "nome": "Site Filial Caçapava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.181692,
+          -23.033791,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CQR001",
+        "nome": "Site CERQUEIRA CESAR A1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.976347,
+          -21.142465,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CTD001",
+        "nome": "Site Catanduva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134435,
+          -23.306793,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CVA001",
+        "nome": "Site Cabreúva Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05347,
+          -23.248637,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CVA002",
+        "nome": "Site Cabreuva Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.735143,
+          -21.341587,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "CVH001",
+        "nome": "Site Filial Cravinhos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.392403,
+          -21.522162,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DBD001",
+        "nome": "Site Dobrada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.619434,
+          -21.904293,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DCV001",
+        "nome": "Site Descalvado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.619647,
+          -23.6992,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DDA001",
+        "nome": "Site Diadema Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.384736,
+          -22.370485,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DGS001",
+        "nome": "Site Dois Corregos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "nan",
+          "nan",
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DSK001",
+        "nome": "Desktop Sede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.313695,
+          -22.112466,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "DUD001",
+        "nome": "Site Dourado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.372072,
+          -23.041794,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "EFO001",
+        "nome": "Site Filial Elias Fausto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21435,
+          -22.4887,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "EGC001",
+        "nome": "Site Engenheiro Coelho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.953012,
+          -22.271131,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ETVA01",
+        "nome": "Site Estiva Gerbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.748134,
+          -23.28059,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FAT001",
+        "nome": "Site Francisco Morato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.745286,
+          -23.280885,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FAT002",
+        "nome": "Site Centro IDC (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.741371,
+          -23.281228,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FAT003",
+        "nome": "Site Belem Capela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702588,
+          -23.287758,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FAT004",
+        "nome": "Site Net Maximus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723076,
+          -23.32879,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FCR001",
+        "nome": "Site Franco da Rocha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.709142,
+          -23.321046,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FCR002",
+        "nome": "Site Monte Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.749751,
+          -23.30927,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FCR003",
+        "nome": "Site Linknet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.691781,
+          -21.268609,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "FPS001",
+        "nome": "Site Fernando Prestes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.493235,
+          -21.839643,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GAPE01",
+        "nome": "Site Gavião Peixoto Lpnet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.491564,
+          -21.834625,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GAPE02",
+        "nome": "Site Gavião Peixoto 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.227112,
+          -21.361116,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GIB001",
+        "nome": "Site Guariba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.321964,
+          -20.315915,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GIR001",
+        "nome": "Site Guaíra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.291986,
+          -23.949482,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GJA001",
+        "nome": "Site Vicente de Carvalho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.225046,
+          -23.975705,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GJA002",
+        "nome": "Site Enseada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.218893,
+          -20.793573,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GPI001",
+        "nome": "Site Guapiaçu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.044244,
+          -23.415408,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GRM001",
+        "nome": "Site Sede Guararema (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.003393,
+          -23.421971,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GRM002",
+        "nome": "Site Alpes Guararema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.124251,
+          -23.325051,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GRM003",
+        "nome": "Site UBS Guararema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.097329,
+          -23.364758,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GRM004",
+        "nome": "Site Parque Agrinco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.037166,
+          -21.499231,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "GTP001",
+        "nome": "Site Guatapara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054389,
+          -22.632838,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HLBA01",
+        "nome": "Site Holambra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.233491,
+          -22.89981,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT01",
+        "nome": "Site Amanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16075,
+          -22.89309,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT02",
+        "nome": "Site Parque da Mata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.221588,
+          -22.889949,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT03",
+        "nome": "Site Sao Sebastião"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.221588,
+          -22.889949,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT04",
+        "nome": "Site Villa Flora Hortolandia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.216176,
+          -22.87158,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT05",
+        "nome": "Site Hortolândia Filial (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.195174,
+          -22.896682,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT06",
+        "nome": "Site Remoto Boa Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.210859,
+          -22.904032,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT07",
+        "nome": "Site Remoto São Bento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.208797,
+          -22.892077,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT08",
+        "nome": "Site Remoto Vila Flora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.202951,
+          -22.864163,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT09",
+        "nome": "Site Remoto Minda 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.204181,
+          -22.859998,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT10",
+        "nome": "Site Remoto Minda 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.218741,
+          -22.867075,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT11",
+        "nome": "Site Remoto Remanso 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.178703,
+          -22.88399,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT12",
+        "nome": "Site Remoto Sumarezinho 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.173189,
+          -22.874628,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT13",
+        "nome": "Site Remoto Sumarezinho 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16075,
+          -22.89309,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT14",
+        "nome": "Site Shelter Rosolem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.224971,
+          -22.890742,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "HORT15",
+        "nome": "Site São Sebastião NOVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.811343,
+          -21.597864,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IAL001",
+        "nome": "Site Itapolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.805444,
+          -21.599611,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IAL002",
+        "nome": "Site Itapolis(Torre Mazzo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.366677,
+          -23.480126,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IAQ001",
+        "nome": "Site Estação"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.996249,
+          -21.953791,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IBE001",
+        "nome": "Site Ibate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.273864,
+          -23.09917,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IDU001",
+        "nome": "Site Campo Bonito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.215922,
+          -23.08577,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IDU002",
+        "nome": "Site Indaiatuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.213328,
+          -23.09082,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IDU003",
+        "nome": "Site Indaiatuba Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.273914,
+          -23.099185,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IDU004",
+        "nome": "Site Campo Bonito NOVO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.558278,
+          -22.51366,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IGT001",
+        "nome": "Site Igaraçu do Tietê"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.802736,
+          -22.258669,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IIN001",
+        "nome": "Site Itirapina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.059177,
+          -21.315489,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IJO001",
+        "nome": "Site Itajobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.156808,
+          -23.195577,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IKG001",
+        "nome": "Site Centro Igaratá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.104299,
+          -23.211475,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IKG002",
+        "nome": "Site Pontal das Garças"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.752291,
+          -24.162104,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "INE001",
+        "nome": "Site Itanhaem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.854919,
+          -24.210426,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "INE0026.854919;-24.207247",
+        "nome": "Site Itanhaem 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.506475,
+          -22.584249,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IPS001",
+        "nome": "Site Iracemápolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.717756,
+          -22.235181,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IPY001",
+        "nome": "Site Itapuí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.156014,
+          -22.697339,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IRS001",
+        "nome": "Site Assentamento Borebi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.614026,
+          -23.10346,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ITG001",
+        "nome": "Site Itatinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.306589,
+          -23.26143,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ITU001",
+        "nome": "Site Itu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05724,
+          -23.15513,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ITV001",
+        "nome": "Site Itupeva Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.090909,
+          -23.415493,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ITY001",
+        "nome": "Site Itai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.823973,
+          -21.757163,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IYG001",
+        "nome": "Site Centro Ibitinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.833994,
+          -21.758274,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IYG002",
+        "nome": "Site Ibitinga 13 de Maio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.841163,
+          -21.773194,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IYG003",
+        "nome": "Site Ibitinga Casa Viva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.788583,
+          -21.749976,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "IYG004",
+        "nome": "Site Ibitinga São francisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.90363,
+          -23.534706,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAD001",
+        "nome": "Site Jandira Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.964565,
+          -23.18886,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI001",
+        "nome": "Site Ermida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.974326,
+          -23.191763,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI002",
+        "nome": "Site Jundiaí_Ascenty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.910606,
+          -23.1669,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI003",
+        "nome": "Site Jundiaí Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.889453,
+          -23.19065,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI004",
+        "nome": "Site Nino Plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.980426,
+          -23.14526,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI005",
+        "nome": "Site Novo Horizonte Jundiaí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.936159,
+          -23.153453,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAI006",
+        "nome": "Jundiaí - Distrito Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.327278,
+          -21.25889,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAL001",
+        "nome": "Site Jaboticabal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.557611,
+          -22.297427,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAU001",
+        "nome": "Site A1 JAU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.550696,
+          -22.281355,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAU002",
+        "nome": "Site B1 JAU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.671736,
+          -22.366349,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JAU003",
+        "nome": "Site POTUNDUVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.965438,
+          -23.305219,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JCI001",
+        "nome": "Site Filial Jacareí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.067225,
+          -23.237933,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JCI002",
+        "nome": "Site Recanto dos Passaros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.012291,
+          -22.686995,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU001",
+        "nome": "Site COND. IND. FLEX PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.961709,
+          -22.667837,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU002",
+        "nome": "Site LAGO DA BARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022201,
+          -22.679327,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU003",
+        "nome": "Site COND. TAMBORÉ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.989662,
+          -22.707541,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU004",
+        "nome": "Site Sede Netell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.003328,
+          -22.67859,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU005",
+        "nome": "Site Barracão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.989706,
+          -22.707521,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JGU006",
+        "nome": "Site Netell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.713495,
+          -23.146424,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JIU001",
+        "nome": "Site Jarinu Maracanã"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.705654,
+          -23.082507,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "JIU002",
+        "nome": "Site Jarinu (Starnet)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.793657,
+          -22.59796,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LEP001",
+        "nome": "Site Lençóis Paulista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.748564,
+          -21.67941,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LIS001",
+        "nome": "Site Lins"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.38508,
+          -22.18483,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LME001",
+        "nome": "Site Leme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.950583,
+          -23.079635,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LOU001",
+        "nome": "Site Louveira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4087,
+          -22.57654,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA001",
+        "nome": "Site Esteves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.403576,
+          -22.567365,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA002",
+        "nome": "Site Limeira Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.447604,
+          -22.55559,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA003",
+        "nome": "Site Nossa Senhora das Dores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.406824,
+          -22.603355,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA004",
+        "nome": "Site Santa Eulália"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.396306,
+          -22.59985,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA005",
+        "nome": "Site Limeira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.425823,
+          -22.59389,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA006",
+        "nome": "Site Base Graminha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.444537,
+          -22.553437,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA007",
+        "nome": "Site Remoto Nossa Senhora das Dores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.383804,
+          -22.598343,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA008",
+        "nome": "Site Remoto Santina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.401164,
+          -22.581557,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA009",
+        "nome": "Site Antonio Ometto (Ícone)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.378474,
+          -22.620937,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "LRA010",
+        "nome": "Site Rodeio de Limeira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.588133,
+          -23.257212,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MAR001",
+        "nome": "Site Terra Preta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.716844,
+          -22.513634,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MAT001",
+        "nome": "Site Macatuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.211029,
+          -23.574863,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MCZ001",
+        "nome": "Site Maitaca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.242215,
+          -23.55171,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MCZ002",
+        "nome": "Site Jundiapeba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.142606,
+          -23.511112,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MCZ003",
+        "nome": "Site Cezar de Souza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.312072,
+          -23.005016,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MDU001",
+        "nome": "Site Manduri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.624514,
+          -24.09606,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MGG001",
+        "nome": "Site Mongagua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.945374,
+          -22.362359,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MGU001",
+        "nome": "Site Mogi Guaçu Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.940577,
+          -22.383243,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MGU002",
+        "nome": "Site Mogi Guaçu Itacolomi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.150612,
+          -21.509121,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MKC001",
+        "nome": "Site Motuca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.965167,
+          -22.420333,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MMM001",
+        "nome": "Site Mogi Mirim/Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.969602,
+          -22.497216,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MMM002",
+        "nome": "Site Sol Nascente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.945606,
+          -22.361319,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MMM003",
+        "nome": "Site JD. SANTA HELENA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.956098,
+          -22.522826,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MMM004",
+        "nome": "Site Martim Francisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.492228,
+          -21.26378,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MNT001",
+        "nome": "Site Monte Alto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.365053,
+          -21.604522,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MOM001",
+        "nome": "Site Matão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.362659,
+          -21.597233,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MOM002",
+        "nome": "Site Matão 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.315639,
+          -22.948128,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MOR001",
+        "nome": "Site Filial Monte Mor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.262881,
+          -22.928978,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MOR002",
+        "nome": "Site Paulista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.513174,
+          -20.819629,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MRS001",
+        "nome": "Site Mirassol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.449407,
+          -22.413582,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "MTT001",
+        "nome": "Site Mineiros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29469,
+          -22.78019,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NDS001",
+        "nome": "Site Odessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.307874,
+          -22.80323,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NDS002",
+        "nome": "Site Alvorada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.291742,
+          -22.800308,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NDS003",
+        "nome": "Site Remoto Green Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.298287,
+          -22.780018,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NDS004",
+        "nome": "Site Prefeitura de Nova Odessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.565726,
+          -21.780934,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NEU001",
+        "nome": "Site Nova Europa Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.564967,
+          -21.778226,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NEU002",
+        "nome": "Site Nova Europa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.201347,
+          -21.474713,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NHT001",
+        "nome": "Site Novo Horizonte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.397019,
+          -23.16208,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "NZP001",
+        "nome": "Site Nazaré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.776955,
+          -23.492115,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "OCO001",
+        "nome": "Site Ascenty Osasco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.905687,
+          -20.73058,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "OLA001",
+        "nome": "Site Olímpia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.620569,
+          -22.673046,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA001",
+        "nome": "Site Antenas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.656106,
+          -22.67591,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA002",
+        "nome": "Site Dedini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.675985,
+          -22.74468,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA003",
+        "nome": "Site InfoHelp JF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.693648,
+          -22.67575,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA004",
+        "nome": "Site Maria Claudia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.649029,
+          -22.73529,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA005",
+        "nome": "Site Piracicaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.608165,
+          -22.56885,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA006",
+        "nome": "Site Tanquinho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.659386,
+          -22.73655,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA007",
+        "nome": "Site Piracicaba Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.644995,
+          -22.729687,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAA008",
+        "nome": "Site Artemis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4281,
+          -22.0016,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PAG001",
+        "nome": "Site Pirassununga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.905196,
+          -22.741236,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PDA001",
+        "nome": "POP Pedreira Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.782736,
+          -22.347569,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PDR001",
+        "nome": "Site Pederneiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.381151,
+          -23.076849,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PDW001",
+        "nome": "Site Pardinho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.430462,
+          -24.0078,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD001",
+        "nome": "Site Praia Grande Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51093,
+          -24.03857,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD002",
+        "nome": "Site Praia Grande Caiçara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55887,
+          -24.05859,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD003",
+        "nome": "Site Real Netion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52226,
+          -24.04381,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD004",
+        "nome": "Site Caiçara Netion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.526483,
+          -24.029979,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD005",
+        "nome": "Site Parque das Americas (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.512006,
+          -24.030022,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD006",
+        "nome": "Site Curva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.520381,
+          -24.030467,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD007",
+        "nome": "Site Esmeralda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49376,
+          -24.02954,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD008",
+        "nome": "Site Nova Mirim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.475301,
+          -24.026537,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD009",
+        "nome": "Site Ocian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4213,
+          -24.00313,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD010",
+        "nome": "Site Guilhermina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.45096,
+          -23.99662,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PGD011",
+        "nome": "Site Vila Sonia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.138034,
+          -22.412807,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PIA001",
+        "nome": "Site Piratininga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.449133,
+          -21.993222,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PJI001",
+        "nome": "Site Pirajuí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17693,
+          -22.7306,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA001",
+        "nome": "Site João Aranha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.176432,
+          -22.7299,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA002",
+        "nome": "Site Base Academia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144136,
+          -22.77284,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA003",
+        "nome": "Site Village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.197766,
+          -22.76089,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA004",
+        "nome": "Site Represa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132491,
+          -22.80031,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA005",
+        "nome": "Site Remoto Okinawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17638,
+          -22.781225,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA006",
+        "nome": "Site Remoto Pitagoras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.192043,
+          -22.785984,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PLA007",
+        "nome": "Site Remoto Cooperlotes 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.907068,
+          -21.188669,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PNM001",
+        "nome": "Site Pindorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.34355,
+          -23.525957,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "POA001",
+        "nome": "Site Poá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.124387,
+          -23.177044,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PON001",
+        "nome": "Site Porangaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.74237,
+          -23.534087,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PPM001",
+        "nome": "Site Campina Monte Alegre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.878412,
+          -23.441237,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PPM002",
+        "nome": "Site Holambra 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.728713,
+          -23.381341,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PPM003",
+        "nome": "Site Paranapanema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.351342,
+          -23.056012,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PRC001",
+        "nome": "Site Piracaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.667062,
+          -22.807207,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PRTN01",
+        "nome": "Site Pratania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.478812,
+          -21.855177,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PTF001",
+        "nome": "Site Filial Porto Ferreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.215253,
+          -21.009502,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PTG001",
+        "nome": "Site Pitangueiras Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.966975,
+          -24.294952,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "PUE001",
+        "nome": "Site Peruibe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.176523,
+          -22.068123,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "RBB001",
+        "nome": "Site Ribeirão Bonito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.561825,
+          -22.405777,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "RCO001",
+        "nome": "Site Rio Claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.070778,
+          -21.591111,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "RNO001",
+        "nome": "Site Rincão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.77066,
+          -21.198301,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "RPO001",
+        "nome": "Nova Ribeirânia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.800203,
+          -21.198783,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "RPO002",
+        "nome": "Site America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.919662,
+          -22.605594,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SAP001",
+        "nome": "Site Santo Antônio de Posse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.003889,
+          -22.605927,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SAP002",
+        "nome": "Site Rio da Prata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.548434,
+          -23.718919,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SBO001",
+        "nome": "Site São Bernardo Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.606383,
+          -23.743852,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SBO002",
+        "nome": "Site São Bernardo Imigrantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.561641,
+          -23.66845,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SBO004",
+        "nome": "Site São Bernardo Anchieta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.882883,
+          -23.398332,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SBR001",
+        "nome": "Site Santa Branca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.89299,
+          -22.01113,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL001",
+        "nome": "Site São Carlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.898194,
+          -22.059972,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL002",
+        "nome": "Site Aracy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.923778,
+          -22.011778,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL003",
+        "nome": "Site Faber"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.926833,
+          -21.985139,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL004",
+        "nome": "Site Montreal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.903444,
+          -21.900944,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL005",
+        "nome": "Site Pier 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.794694,
+          -21.773889,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL006",
+        "nome": "Site Santa Eudóxia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.895451,
+          -22.032757,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL007",
+        "nome": "Site Vila Prado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.812806,
+          -22.054889,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL008",
+        "nome": "Site Itaipu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.892862,
+          -21.967911,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL009",
+        "nome": "Site Village Damha III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92493,
+          -21.991667,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL010",
+        "nome": "Site A "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.890314,
+          -22.043548,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL011",
+        "nome": "Site B e C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.887833,
+          -22.000382,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL012",
+        "nome": "Site E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.891964,
+          -22.014971,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL013",
+        "nome": "Site Episcopal (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.938725,
+          -21.984801,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL014",
+        "nome": "Site Moradas 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.893343,
+          -22.014344,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCL015",
+        "nome": "Site Padre Teixeira (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.564476,
+          -23.630921,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SCN001",
+        "nome": "Site Sao Caetano do Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.805143,
+          -21.245508,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SDL001",
+        "nome": "Site Santa Adelia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.849358,
+          -23.530524,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SEP001",
+        "nome": "Site Salesópolis "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.964792,
+          -23.550033,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SEP002",
+        "nome": "Site Remedios Salesopolis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.531328,
+          -22.45585,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SGD001",
+        "nome": "Site Santa Gertrudes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.901563,
+          -23.248618,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SJC001",
+        "nome": "Site São José dos Campos Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.893328,
+          -23.194986,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SJC002",
+        "nome": "Site São José dos Campos Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.816917,
+          -23.172246,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SJC003",
+        "nome": "Site São José dos Campos Leste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.792728,
+          -21.975854,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SJV001",
+        "nome": "Site São João da Boa Vista Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.28863,
+          -23.200785,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SLO001",
+        "nome": "Site Salto Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.573394,
+          -22.750767,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SML001",
+        "nome": "Site São Manuel Flamboyants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.512518,
+          -23.634276,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SNE001",
+        "nome": "Site Santo André"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51239,
+          -23.63392,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SNE002",
+        "nome": "Site Parque das Nações"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.466855,
+          -23.49807,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SOC001",
+        "nome": "Site Sorocaba Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.476463,
+          -23.461361,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SOC002",
+        "nome": "Site Sorocaba Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.434588,
+          -23.49449,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SOC003",
+        "nome": "Site Sorocaba Leste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.458348,
+          -23.502077,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SOC004",
+        "nome": "Site Fasternet Sorocaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.635819,
+          -23.546007,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO001",
+        "nome": "Site SP1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82715,
+          -23.502824,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO002",
+        "nome": "Site SP2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.863263,
+          -23.466264,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO003",
+        "nome": "Site SP3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.809313,
+          -23.493379,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO004",
+        "nome": "Site SP4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.643825,
+          -23.572542,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO005",
+        "nome": "Site SP5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.521321,
+          -23.605994,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO006",
+        "nome": "Site Zona Leste "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66384,
+          -23.522331,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SPO007",
+        "nome": "Site Barra Funda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.088525,
+          -21.696789,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SQL001",
+        "nome": "Site Santa Lucia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152656,
+          -23.526584,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRE001",
+        "nome": "Site Sao Roque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.479477,
+          -21.7093,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRQ001",
+        "nome": "Site Santa Rita do Passa 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.421619,
+          -20.789053,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRR001",
+        "nome": "Site SJ Rio Preto Alice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.39174,
+          -20.757406,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRR002",
+        "nome": "Site SJ Rio Preto B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.355467,
+          -20.788976,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRR003",
+        "nome": "Site SJ Rio Preto Nazare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.371537,
+          -20.831174,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRR004",
+        "nome": "Site SJ Rio Preto Catarina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.362253,
+          -21.475716,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRV001",
+        "nome": "Site Centro Santa Rosa de Viterbo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.56654,
+          -21.309131,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SRZ001",
+        "nome": "Site Serra Azul Centro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.413243,
+          -22.75696,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STB001",
+        "nome": "Site Santa Bárbara Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.362449,
+          -22.7251,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STB002",
+        "nome": "Site Gramado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39675,
+          -22.76357,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STB003",
+        "nome": "Site Barbara Itália"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.418711,
+          -22.75597,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STB004",
+        "nome": "Site Castellamare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.337527,
+          -23.956968,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STS001",
+        "nome": "Site Santos Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.36883,
+          -23.94037,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STS002",
+        "nome": "Site Santos Santa Maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.325785,
+          -23.955608,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "STS003",
+        "nome": "Site Vivo STFC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.269655,
+          -22.824447,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM001",
+        "nome": "Site Sumaré Centro (DATACENTER)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.22761,
+          -22.79133,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM002",
+        "nome": "Site Base Anhanguera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196459,
+          -22.80719,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM003",
+        "nome": "Site Maria Antônia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.161602,
+          -22.83356,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM004",
+        "nome": "Site Matão Sumaré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.182919,
+          -22.82895,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM005",
+        "nome": "Site Promac Francisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.244575,
+          -22.81758,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM006",
+        "nome": "Site Vila Flora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.300778,
+          -22.88779,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM007",
+        "nome": "Site Cruzeiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.336035,
+          -22.85767,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM008",
+        "nome": "Site Estância"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.205078,
+          -22.79471,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM009",
+        "nome": "Site Florely"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.225494,
+          -22.80699,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM010",
+        "nome": "Site Gfisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21948,
+          -22.82789,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM011",
+        "nome": "Site Log Sumaré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.282967,
+          -22.822869,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM012",
+        "nome": "Site Parque Floresta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.269412,
+          -22.80494,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM013",
+        "nome": "Site Picerno Paraná"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.211854,
+          -22.847449,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM014",
+        "nome": "Site Real"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185093,
+          -22.8539,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM015",
+        "nome": "Site Retiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.250332,
+          -22.819017,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM016",
+        "nome": "Site Remoto Ype Branco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.168512,
+          -22.823697,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM017",
+        "nome": "Site Remoto Regina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.220242,
+          -22.829553,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM018",
+        "nome": "Site Remoto Viver"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.258947,
+          -22.83698,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM019",
+        "nome": "Site Veccon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1964,
+          -22.84173,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM020",
+        "nome": "Site Remoto Denadai 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.156486,
+          -22.834914,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM021",
+        "nome": "Site Remoto Matão 3 Varandas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2811,
+          -22.792968,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM022",
+        "nome": "Site Remoto Picerno 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.280435,
+          -22.799973,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM023",
+        "nome": "Site Remoto Picerno 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.27309,
+          -22.797336,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM024",
+        "nome": "Site Remoto Picerno 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.26936,
+          -22.80082,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM025",
+        "nome": "Site Remoto Picerno 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.270201,
+          -22.807202,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM026",
+        "nome": "Site Remoto Picerno 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.271623,
+          -22.803964,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM027",
+        "nome": "Site Remoto Picerno 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.171314,
+          -22.814595,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM028",
+        "nome": "Site Remoto Regina 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17039,
+          -22.811902,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM029",
+        "nome": "Site Remoto Regina 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.219776,
+          -22.810697,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM030",
+        "nome": "Site Remoto Veneza 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.267202,
+          -22.82919,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SUM031",
+        "nome": "Site Base Ongaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39419,
+          -23.96693,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE001",
+        "nome": "Site São Vicente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.453569,
+          -23.981052,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE002",
+        "nome": "Site São Vicente Ponte Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46335,
+          -23.98631,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE003",
+        "nome": "Site Rio Negro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.418124,
+          -23.947631,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE004",
+        "nome": "Site Nautica Nation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.472559,
+          -23.989745,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE005",
+        "nome": "Site Samarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.453821,
+          -23.98016,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE006",
+        "nome": "Site Quarentenario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.45886,
+          -23.98178,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE007",
+        "nome": "Site Rio Branco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.418507,
+          -23.940149,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE008",
+        "nome": "Site Tancredo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48915,
+          -23.981768,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SVE009",
+        "nome": "Site Parque das Bandeiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.24994,
+          -21.82694,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "SZS001",
+        "nome": "Site Santa Cruz das Palmeiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.687664,
+          -21.735721,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TBT001",
+        "nome": "Site Tabatinga C-lig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.57422,
+          -21.747036,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TBT002",
+        "nome": "Site Cardilli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.688911,
+          -21.740345,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TBT003",
+        "nome": "Site Tabatinga A01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.500113,
+          -21.401654,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TGA001",
+        "nome": "SIte Taquaritinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.552926,
+          -23.022583,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TTE001",
+        "nome": "Site Taubaté Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.586587,
+          -23.036219,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "TTE002",
+        "nome": "Site Taubaté Nações"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.895252,
+          -21.832727,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "VGS001",
+        "nome": "Site Vargem Grande do Sul Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.984767,
+          -23.03741,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "VIN001",
+        "nome": "Site Vinhedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.449088,
+          -23.545556,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "VOM001",
+        "nome": "Site Votorantim Filial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.997696,
+          -22.97689,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "VOS001",
+        "nome": "Site Valinhos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.843202,
+          -23.21384,
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "VRP001",
+        "nome": "Site Varzea Paulista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "nan",
+          "nan",
+          0
+        ]
+      },
+      "properties": {
+        "designacao": "ZZZ999",
+        "nome": "Rede Legada"
+      }
+    }
+  ]
+}
