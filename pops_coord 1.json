@@ -1,0 +1,2474 @@
+[
+  {
+    "designacao": "AAI001",
+    "nome": "Site Aguaí Filial",
+    "latitude": -22.057813,
+    "longitude": -46.973316
+  },
+  {
+    "designacao": "AAS001",
+    "nome": "Site Araras Filial",
+    "latitude": -22.354689,
+    "longitude": -47.385503
+  },
+  {
+    "designacao": "AAS002",
+    "nome": "Site Araras Jose Ometto",
+    "latitude": -22.35579,
+    "longitude": -47.335956
+  },
+  {
+    "designacao": "ABB001",
+    "nome": "Site Águas de Santa Barbara",
+    "latitude": -22.881365,
+    "longitude": -49.239658
+  },
+  {
+    "designacao": "ABS001",
+    "nome": "Site Americo Brasiliense",
+    "latitude": -21.72962,
+    "longitude": -48.108428
+  },
+  {
+    "designacao": "ADX001",
+    "nome": "Site Arandu",
+    "latitude": -23.134232,
+    "longitude": -49.053346
+  },
+  {
+    "designacao": "ADY001",
+    "nome": "Site Analândia",
+    "latitude": -22.117235,
+    "longitude": -47.661582
+  },
+  {
+    "designacao": "AGS001",
+    "nome": "Site Agudos",
+    "latitude": -22.469336,
+    "longitude": -48.98654
+  },
+  {
+    "designacao": "AIA001",
+    "nome": "Site Maristela",
+    "latitude": -23.154767,
+    "longitude": -46.554028
+  },
+  {
+    "designacao": "AIA002",
+    "nome": "Site Epa",
+    "latitude": -23.088365,
+    "longitude": -46.583668
+  },
+  {
+    "designacao": "AIA003",
+    "nome": "Site Tanque Três Pista",
+    "latitude": -23.051526,
+    "longitude": -46.567909
+  },
+  {
+    "designacao": "AIA004",
+    "nome": "Site Porto Atibaia",
+    "latitude": -23.103961,
+    "longitude": -46.492667
+  },
+  {
+    "designacao": "AIA005",
+    "nome": "Site Centro Starnet",
+    "latitude": -23.117615,
+    "longitude": -46.553288
+  },
+  {
+    "designacao": "AIA006",
+    "nome": "Site Pedreira",
+    "latitude": -23.06581,
+    "longitude": -46.634841
+  },
+  {
+    "designacao": "AIA007",
+    "nome": "Site Imperial",
+    "latitude": -23.13279,
+    "longitude": -46.580156
+  },
+  {
+    "designacao": "AIA009",
+    "nome": "Site Espaço Atibaia",
+    "latitude": -23.165986,
+    "longitude": -46.575119
+  },
+  {
+    "designacao": "AIA010",
+    "nome": "Site KM 75",
+    "latitude": -23.100539,
+    "longitude": -46.57869
+  },
+  {
+    "designacao": "AMI001",
+    "nome": "Alumínio",
+    "latitude": "nan",
+    "longitude": "nan"
+  },
+  {
+    "designacao": "AMIO01",
+    "nome": "Site Alumínio",
+    "latitude": -23.526342,
+    "longitude": -47.252858
+  },
+  {
+    "designacao": "AMR001",
+    "nome": "Site Dinamarca",
+    "latitude": -22.75994,
+    "longitude": -47.340036
+  },
+  {
+    "designacao": "AMR002",
+    "nome": "Site Najar",
+    "latitude": -22.74976,
+    "longitude": -47.302575
+  },
+  {
+    "designacao": "AMR003",
+    "nome": "Site Zanaga",
+    "latitude": -22.71662,
+    "longitude": -47.294896
+  },
+  {
+    "designacao": "AMR004",
+    "nome": "Site Novo Mundo",
+    "latitude": -22.77131,
+    "longitude": -47.345155
+  },
+  {
+    "designacao": "AMR005",
+    "nome": "Site São Manoel",
+    "latitude": -22.7323,
+    "longitude": -47.310364
+  },
+  {
+    "designacao": "AMR006",
+    "nome": "Site Base Marrocos",
+    "latitude": -22.74356,
+    "longitude": -47.330725
+  },
+  {
+    "designacao": "AMR007",
+    "nome": "Site Praia Azul",
+    "latitude": -22.74047,
+    "longitude": -47.240199
+  },
+  {
+    "designacao": "AMR008",
+    "nome": "Site de Cillo",
+    "latitude": -22.74969,
+    "longitude": -47.33738
+  },
+  {
+    "designacao": "AMR009",
+    "nome": "Site Rodeio de Americana",
+    "latitude": -22.743684,
+    "longitude": -47.255707
+  },
+  {
+    "designacao": "AREM01",
+    "nome": "Site Araçariguama",
+    "latitude": -23.4392,
+    "longitude": -47.062852
+  },
+  {
+    "designacao": "ARL001",
+    "nome": "Site Areiopolis",
+    "latitude": -22.687621,
+    "longitude": -48.672919
+  },
+  {
+    "designacao": "ARQ001",
+    "nome": "Site Araraquara",
+    "latitude": -21.804321,
+    "longitude": -48.195037
+  },
+  {
+    "designacao": "ARQ002",
+    "nome": "Site Alto da Boa Vista",
+    "latitude": -21.831848,
+    "longitude": -48.181546
+  },
+  {
+    "designacao": "ARQ003",
+    "nome": "Site Edificio America",
+    "latitude": -21.80412,
+    "longitude": -48.174748
+  },
+  {
+    "designacao": "ARQ004",
+    "nome": "Site Oitis",
+    "latitude": -21.817944,
+    "longitude": -48.165
+  },
+  {
+    "designacao": "ARQ005",
+    "nome": "Site Posto Podium",
+    "latitude": -21.748285,
+    "longitude": -48.136649
+  },
+  {
+    "designacao": "ARQ006",
+    "nome": "Site Vaz Filho",
+    "latitude": -21.781361,
+    "longitude": -48.15525
+  },
+  {
+    "designacao": "ARQ007",
+    "nome": "Site Village Dahma",
+    "latitude": -21.760417,
+    "longitude": -48.19625
+  },
+  {
+    "designacao": "ARQ008",
+    "nome": "Site Vitoria Busines S",
+    "latitude": -21.784361,
+    "longitude": -48.197556
+  },
+  {
+    "designacao": "AVR001",
+    "nome": "Site Avaré",
+    "latitude": -23.098093,
+    "longitude": -48.920544
+  },
+  {
+    "designacao": "BBN001",
+    "nome": "Site Barra Bonita 1",
+    "latitude": -22.464217,
+    "longitude": -48.562598
+  },
+  {
+    "designacao": "BBN002",
+    "nome": "Site Barra Bonita 2",
+    "latitude": -22.493804,
+    "longitude": -48.562948
+  },
+  {
+    "designacao": "BBN003",
+    "nome": "Site Pq das Antenas",
+    "latitude": -22.425927,
+    "longitude": -48.554074
+  },
+  {
+    "designacao": "BBO001",
+    "nome": "Site Borborema",
+    "latitude": -21.618699,
+    "longitude": -49.07462
+  },
+  {
+    "designacao": "BDO001",
+    "nome": "Site Bebedouro",
+    "latitude": -20.943194,
+    "longitude": -48.491332
+  },
+  {
+    "designacao": "BEP001",
+    "nome": "Site Boa Esperança do Sul",
+    "latitude": -21.989881,
+    "longitude": -48.387958
+  },
+  {
+    "designacao": "BMM001",
+    "nome": "Site Biritiba Mirim",
+    "latitude": -23.572943,
+    "longitude": -46.03968
+  },
+  {
+    "designacao": "BOB001",
+    "nome": "Site Borebi",
+    "latitude": -22.568288,
+    "longitude": -48.970213
+  },
+  {
+    "designacao": "BOB002",
+    "nome": "Site BOREBI ASSENTAMENTO",
+    "latitude": -22.697339,
+    "longitude": -49.156014
+  },
+  {
+    "designacao": "BOC001",
+    "nome": "Site Bocaina",
+    "latitude": -22.139733,
+    "longitude": -48.51929
+  },
+  {
+    "designacao": "BRS001",
+    "nome": "Site Barretos Filial (DATACENTER)",
+    "latitude": -20.554895,
+    "longitude": -48.569479
+  },
+  {
+    "designacao": "BRS002",
+    "nome": "Site Dudu",
+    "latitude": -20.530948,
+    "longitude": -48.562462
+  },
+  {
+    "designacao": "BRS003",
+    "nome": "Site San Diego",
+    "latitude": -20.547711,
+    "longitude": -48.606657
+  },
+  {
+    "designacao": "BRS004",
+    "nome": "Site Ibitu",
+    "latitude": -20.612224,
+    "longitude": -48.765469
+  },
+  {
+    "designacao": "BRU001",
+    "nome": "Site A1 BAURU",
+    "latitude": -22.333073,
+    "longitude": -49.030847
+  },
+  {
+    "designacao": "BRU002",
+    "nome": "Site B1 BAURU",
+    "latitude": -22.320926,
+    "longitude": -49.009586
+  },
+  {
+    "designacao": "BRU003",
+    "nome": "Site C1 BAURU",
+    "latitude": -22.290589,
+    "longitude": -49.05552
+  },
+  {
+    "designacao": "BRU004",
+    "nome": "Site D1 BAURU",
+    "latitude": -22.308181,
+    "longitude": -49.097385
+  },
+  {
+    "designacao": "BRU005",
+    "nome": "Site E1 BAURU",
+    "latitude": -22.335162,
+    "longitude": -49.096441
+  },
+  {
+    "designacao": "BRU006",
+    "nome": "Site F1 BAURU",
+    "latitude": -22.329619,
+    "longitude": -49.07038
+  },
+  {
+    "designacao": "BSS001",
+    "nome": "Site São Marcos",
+    "latitude": -23.145724,
+    "longitude": -46.473887
+  },
+  {
+    "designacao": "BSS002",
+    "nome": "Site Santa Maria",
+    "latitude": -23.117942,
+    "longitude": -46.479411
+  },
+  {
+    "designacao": "BTU001",
+    "nome": "Site ANHUMAS",
+    "latitude": -22.937798,
+    "longitude": -48.299174
+  },
+  {
+    "designacao": "BTU002",
+    "nome": "Site BOTUCATU AREA C",
+    "latitude": -22.921202,
+    "longitude": -48.454358
+  },
+  {
+    "designacao": "BTU003",
+    "nome": "Site PSTA2",
+    "latitude": -22.873815,
+    "longitude": -48.473819
+  },
+  {
+    "designacao": "BTU004",
+    "nome": "Site CHANCELER",
+    "latitude": -22.890505,
+    "longitude": -48.441286
+  },
+  {
+    "designacao": "BTU005",
+    "nome": "Site CARMELO A",
+    "latitude": -22.868874,
+    "longitude": -48.448906
+  },
+  {
+    "designacao": "BTU006",
+    "nome": "Site BOTUCATU RUBIAO",
+    "latitude": -22.900719,
+    "longitude": -48.499067
+  },
+  {
+    "designacao": "BTU007",
+    "nome": "Site Vitoriana",
+    "latitude": -22.779662,
+    "longitude": -48.401995
+  },
+  {
+    "designacao": "BYT001",
+    "nome": "Site Bady Bassitt",
+    "latitude": -20.91844,
+    "longitude": -49.447612
+  },
+  {
+    "designacao": "CAO001",
+    "nome": "Site Cubatão Filial",
+    "latitude": -23.88254,
+    "longitude": -46.41909
+  },
+  {
+    "designacao": "CAO002",
+    "nome": "Site Cubatão Casqueiro",
+    "latitude": -23.92849,
+    "longitude": -46.403698
+  },
+  {
+    "designacao": "CAO003",
+    "nome": "Site Bolsao 7",
+    "latitude": -23.920307,
+    "longitude": -46.4213
+  },
+  {
+    "designacao": "CAO004",
+    "nome": "Site Bolsão 9",
+    "latitude": -23.92117,
+    "longitude": -46.43103
+  },
+  {
+    "designacao": "CAO005",
+    "nome": "Site Vale Verde",
+    "latitude": -23.91094,
+    "longitude": -46.46249
+  },
+  {
+    "designacao": "CAO006",
+    "nome": "Site Vila Natal",
+    "latitude": -23.90221,
+    "longitude": -46.43447
+  },
+  {
+    "designacao": "CAO007",
+    "nome": "Site Caraguatá",
+    "latitude": -23.93446,
+    "longitude": -46.43124
+  },
+  {
+    "designacao": "CAO008",
+    "nome": "Site Esperança",
+    "latitude": -23.89863,
+    "longitude": -46.44851
+  },
+  {
+    "designacao": "CAS001",
+    "nome": "Site Satelite Íris",
+    "latitude": -22.9427,
+    "longitude": -47.14315
+  },
+  {
+    "designacao": "CAS002",
+    "nome": "Site Jose Bonifácio",
+    "latitude": -22.8912,
+    "longitude": -47.034403
+  },
+  {
+    "designacao": "CAS003",
+    "nome": "Site Mercedes",
+    "latitude": -22.98476,
+    "longitude": -47.09676
+  },
+  {
+    "designacao": "CAS004",
+    "nome": "Site Ouro Verde",
+    "latitude": -22.90428,
+    "longitude": -47.057375
+  },
+  {
+    "designacao": "CAS005",
+    "nome": "Site Ruy Rodrigues",
+    "latitude": -22.96714,
+    "longitude": -47.138206
+  },
+  {
+    "designacao": "CAS006",
+    "nome": "Site Swiss Park",
+    "latitude": -22.95458,
+    "longitude": -47.062529
+  },
+  {
+    "designacao": "CAS007",
+    "nome": "Site Campo Grande",
+    "latitude": -22.953678,
+    "longitude": -47.184881
+  },
+  {
+    "designacao": "CAS008",
+    "nome": "Site Campos Elísios",
+    "latitude": -22.93302,
+    "longitude": -47.107282
+  },
+  {
+    "designacao": "CAS009",
+    "nome": "Site Eulina",
+    "latitude": -22.89571,
+    "longitude": -47.09397
+  },
+  {
+    "designacao": "CAS010",
+    "nome": "Site Von Zubem",
+    "latitude": -22.93084,
+    "longitude": -47.04008
+  },
+  {
+    "designacao": "CAS011",
+    "nome": "Site Dom Pedro",
+    "latitude": -22.85722,
+    "longitude": -47.04259
+  },
+  {
+    "designacao": "CAS012",
+    "nome": "Site Vida Nova",
+    "latitude": -22.97182,
+    "longitude": -47.1691
+  },
+  {
+    "designacao": "CAS013",
+    "nome": "Site Remoto Vida Nova",
+    "latitude": -22.553437,
+    "longitude": -47.444537
+  },
+  {
+    "designacao": "CAS014",
+    "nome": "Site Remoto Valença",
+    "latitude": -22.94169,
+    "longitude": -47.185521
+  },
+  {
+    "designacao": "CAS015",
+    "nome": "Site Remoto Via Norte",
+    "latitude": -22.88862,
+    "longitude": -47.122452
+  },
+  {
+    "designacao": "CAS016",
+    "nome": "Site Sigma",
+    "latitude": -22.908226,
+    "longitude": -47.057338
+  },
+  {
+    "designacao": "CAS017",
+    "nome": "Site Aeroporto Viracopos",
+    "latitude": -23.008205,
+    "longitude": -47.137568
+  },
+  {
+    "designacao": "CAS018",
+    "nome": "Site Remoto Mercedes 1",
+    "latitude": -22.984627,
+    "longitude": -47.104491
+  },
+  {
+    "designacao": "CAS019",
+    "nome": "Site Remoto Parque Das Aguas 2",
+    "latitude": -22.95685,
+    "longitude": -47.057878
+  },
+  {
+    "designacao": "CBC001",
+    "nome": "Site Filial Casa Branca",
+    "latitude": -21.77684,
+    "longitude": -47.08077
+  },
+  {
+    "designacao": "CBC002",
+    "nome": "Site Venda Branca",
+    "latitude": -21.94927,
+    "longitude": -47.11858
+  },
+  {
+    "designacao": "CDP001",
+    "nome": "Site Cordeirópolis",
+    "latitude": -22.48247,
+    "longitude": -47.456532
+  },
+  {
+    "designacao": "CER001",
+    "nome": "Site Caieiras Centro",
+    "latitude": -23.36225,
+    "longitude": -46.741321
+  },
+  {
+    "designacao": "CER002",
+    "nome": "Site Caieiras Serpa",
+    "latitude": -23.3418,
+    "longitude": -46.744046
+  },
+  {
+    "designacao": "CEX001",
+    "nome": "Site Cedral",
+    "latitude": -20.901265,
+    "longitude": -49.267132
+  },
+  {
+    "designacao": "CHL001",
+    "nome": "Site Conchal",
+    "latitude": -22.33815,
+    "longitude": -47.169568
+  },
+  {
+    "designacao": "CLN001",
+    "nome": "Site Colina",
+    "latitude": -20.717832,
+    "longitude": -48.541024
+  },
+  {
+    "designacao": "CMP001",
+    "nome": "Site Cosmopolis Filial",
+    "latitude": -22.64436,
+    "longitude": -47.19625
+  },
+  {
+    "designacao": "CMX001",
+    "nome": "Site Campo Limpo Paulista",
+    "latitude": -23.20714,
+    "longitude": -46.786596
+  },
+  {
+    "designacao": "CPR001",
+    "nome": "Site Capivari",
+    "latitude": -23.0011,
+    "longitude": -47.517244
+  },
+  {
+    "designacao": "CPV001",
+    "nome": "Site Filial Caçapava",
+    "latitude": -23.099777,
+    "longitude": -45.706319
+  },
+  {
+    "designacao": "CQR001",
+    "nome": "Site CERQUEIRA CESAR A1",
+    "latitude": -23.033791,
+    "longitude": -49.181692
+  },
+  {
+    "designacao": "CTD001",
+    "nome": "Site Catanduva",
+    "latitude": -21.142465,
+    "longitude": -48.976347
+  },
+  {
+    "designacao": "CVA001",
+    "nome": "Site Cabreúva Centro",
+    "latitude": -23.306793,
+    "longitude": -47.134435
+  },
+  {
+    "designacao": "CVA002",
+    "nome": "Site Cabreuva Filial",
+    "latitude": -23.248637,
+    "longitude": -47.05347
+  },
+  {
+    "designacao": "CVH001",
+    "nome": "Site Filial Cravinhos",
+    "latitude": -21.341587,
+    "longitude": -47.735143
+  },
+  {
+    "designacao": "DBD001",
+    "nome": "Site Dobrada",
+    "latitude": -21.522162,
+    "longitude": -48.392403
+  },
+  {
+    "designacao": "DCV001",
+    "nome": "Site Descalvado",
+    "latitude": -21.904293,
+    "longitude": -47.619434
+  },
+  {
+    "designacao": "DDA001",
+    "nome": "Site Diadema Centro",
+    "latitude": -23.6992,
+    "longitude": -46.619647
+  },
+  {
+    "designacao": "DGS001",
+    "nome": "Site Dois Corregos",
+    "latitude": -22.370485,
+    "longitude": -48.384736
+  },
+  {
+    "designacao": "DSK001",
+    "nome": "Desktop Sede",
+    "latitude": "nan",
+    "longitude": "nan"
+  },
+  {
+    "designacao": "DUD001",
+    "nome": "Site Dourado",
+    "latitude": -22.112466,
+    "longitude": -48.313695
+  },
+  {
+    "designacao": "EFO001",
+    "nome": "Site Filial Elias Fausto",
+    "latitude": -23.041794,
+    "longitude": -47.372072
+  },
+  {
+    "designacao": "EGC001",
+    "nome": "Site Engenheiro Coelho",
+    "latitude": -22.4887,
+    "longitude": -47.21435
+  },
+  {
+    "designacao": "ETVA01",
+    "nome": "Site Estiva Gerbi",
+    "latitude": -22.271131,
+    "longitude": -46.953012
+  },
+  {
+    "designacao": "FAT001",
+    "nome": "Site Francisco Morato",
+    "latitude": -23.28059,
+    "longitude": -46.748134
+  },
+  {
+    "designacao": "FAT002",
+    "nome": "Site Centro IDC (DATACENTER)",
+    "latitude": -23.280885,
+    "longitude": -46.745286
+  },
+  {
+    "designacao": "FAT003",
+    "nome": "Site Belem Capela",
+    "latitude": -23.281228,
+    "longitude": -46.741371
+  },
+  {
+    "designacao": "FAT004",
+    "nome": "Site Net Maximus",
+    "latitude": -23.287758,
+    "longitude": -46.702588
+  },
+  {
+    "designacao": "FCR001",
+    "nome": "Site Franco da Rocha",
+    "latitude": -23.32879,
+    "longitude": -46.723076
+  },
+  {
+    "designacao": "FCR002",
+    "nome": "Site Monte Verde",
+    "latitude": -23.321046,
+    "longitude": -46.709142
+  },
+  {
+    "designacao": "FCR003",
+    "nome": "Site Linknet",
+    "latitude": -23.30927,
+    "longitude": -46.749751
+  },
+  {
+    "designacao": "FPS001",
+    "nome": "Site Fernando Prestes",
+    "latitude": -21.268609,
+    "longitude": -48.691781
+  },
+  {
+    "designacao": "GAPE01",
+    "nome": "Site Gavião Peixoto Lpnet",
+    "latitude": -21.839643,
+    "longitude": -48.493235
+  },
+  {
+    "designacao": "GAPE02",
+    "nome": "Site Gavião Peixoto 2",
+    "latitude": -21.834625,
+    "longitude": -48.491564
+  },
+  {
+    "designacao": "GIB001",
+    "nome": "Site Guariba",
+    "latitude": -21.361116,
+    "longitude": -48.227112
+  },
+  {
+    "designacao": "GIR001",
+    "nome": "Site Guaíra",
+    "latitude": -20.315915,
+    "longitude": -48.321964
+  },
+  {
+    "designacao": "GJA001",
+    "nome": "Site Vicente de Carvalho",
+    "latitude": -23.949482,
+    "longitude": -46.291986
+  },
+  {
+    "designacao": "GJA002",
+    "nome": "Site Enseada",
+    "latitude": -23.975705,
+    "longitude": -46.225046
+  },
+  {
+    "designacao": "GPI001",
+    "nome": "Site Guapiaçu",
+    "latitude": -20.793573,
+    "longitude": -49.218893
+  },
+  {
+    "designacao": "GRM001",
+    "nome": "Site Sede Guararema (DATACENTER)",
+    "latitude": -23.415408,
+    "longitude": -46.044244
+  },
+  {
+    "designacao": "GRM002",
+    "nome": "Site Alpes Guararema",
+    "latitude": -23.421971,
+    "longitude": -46.003393
+  },
+  {
+    "designacao": "GRM003",
+    "nome": "Site UBS Guararema",
+    "latitude": -23.325051,
+    "longitude": -46.124251
+  },
+  {
+    "designacao": "GRM004",
+    "nome": "Site Parque Agrinco",
+    "latitude": -23.364758,
+    "longitude": -46.097329
+  },
+  {
+    "designacao": "GTP001",
+    "nome": "Site Guatapara",
+    "latitude": -21.499231,
+    "longitude": -48.037166
+  },
+  {
+    "designacao": "HLBA01",
+    "nome": "Site Holambra",
+    "latitude": -22.632838,
+    "longitude": -47.054389
+  },
+  {
+    "designacao": "HORT01",
+    "nome": "Site Amanda",
+    "latitude": -22.89981,
+    "longitude": -47.233491
+  },
+  {
+    "designacao": "HORT02",
+    "nome": "Site Parque da Mata",
+    "latitude": -22.89309,
+    "longitude": -47.16075
+  },
+  {
+    "designacao": "HORT03",
+    "nome": "Site Sao Sebastião",
+    "latitude": -22.889949,
+    "longitude": -47.221588
+  },
+  {
+    "designacao": "HORT04",
+    "nome": "Site Villa Flora Hortolandia",
+    "latitude": -22.889949,
+    "longitude": -47.221588
+  },
+  {
+    "designacao": "HORT05",
+    "nome": "Site Hortolândia Filial (DATACENTER)",
+    "latitude": -22.87158,
+    "longitude": -47.216176
+  },
+  {
+    "designacao": "HORT06",
+    "nome": "Site Remoto Boa Nova",
+    "latitude": -22.896682,
+    "longitude": -47.195174
+  },
+  {
+    "designacao": "HORT07",
+    "nome": "Site Remoto São Bento",
+    "latitude": -22.904032,
+    "longitude": -47.210859
+  },
+  {
+    "designacao": "HORT08",
+    "nome": "Site Remoto Vila Flora",
+    "latitude": -22.892077,
+    "longitude": -47.208797
+  },
+  {
+    "designacao": "HORT09",
+    "nome": "Site Remoto Minda 1",
+    "latitude": -22.864163,
+    "longitude": -47.202951
+  },
+  {
+    "designacao": "HORT10",
+    "nome": "Site Remoto Minda 2",
+    "latitude": -22.859998,
+    "longitude": -47.204181
+  },
+  {
+    "designacao": "HORT11",
+    "nome": "Site Remoto Remanso 1",
+    "latitude": -22.867075,
+    "longitude": -47.218741
+  },
+  {
+    "designacao": "HORT12",
+    "nome": "Site Remoto Sumarezinho 1",
+    "latitude": -22.88399,
+    "longitude": -47.178703
+  },
+  {
+    "designacao": "HORT13",
+    "nome": "Site Remoto Sumarezinho 4",
+    "latitude": -22.874628,
+    "longitude": -47.173189
+  },
+  {
+    "designacao": "HORT14",
+    "nome": "Site Shelter Rosolem",
+    "latitude": -22.89309,
+    "longitude": -47.16075
+  },
+  {
+    "designacao": "HORT15",
+    "nome": "Site São Sebastião NOVO",
+    "latitude": -22.890742,
+    "longitude": -47.224971
+  },
+  {
+    "designacao": "IAL001",
+    "nome": "Site Itapolis",
+    "latitude": -21.597864,
+    "longitude": -48.811343
+  },
+  {
+    "designacao": "IAL002",
+    "nome": "Site Itapolis(Torre Mazzo)",
+    "latitude": -21.599611,
+    "longitude": -48.805444
+  },
+  {
+    "designacao": "IAQ001",
+    "nome": "Site Estação",
+    "latitude": -23.480126,
+    "longitude": -46.366677
+  },
+  {
+    "designacao": "IBE001",
+    "nome": "Site Ibate",
+    "latitude": -21.953791,
+    "longitude": -47.996249
+  },
+  {
+    "designacao": "IDU001",
+    "nome": "Site Campo Bonito",
+    "latitude": -23.09917,
+    "longitude": -47.273864
+  },
+  {
+    "designacao": "IDU002",
+    "nome": "Site Indaiatuba",
+    "latitude": -23.08577,
+    "longitude": -47.215922
+  },
+  {
+    "designacao": "IDU003",
+    "nome": "Site Indaiatuba Filial",
+    "latitude": -23.09082,
+    "longitude": -47.213328
+  },
+  {
+    "designacao": "IDU004",
+    "nome": "Site Campo Bonito NOVO",
+    "latitude": -23.099185,
+    "longitude": -47.273914
+  },
+  {
+    "designacao": "IGT001",
+    "nome": "Site Igaraçu do Tietê",
+    "latitude": -22.51366,
+    "longitude": -48.558278
+  },
+  {
+    "designacao": "IIN001",
+    "nome": "Site Itirapina",
+    "latitude": -22.258669,
+    "longitude": -47.802736
+  },
+  {
+    "designacao": "IJO001",
+    "nome": "Site Itajobi",
+    "latitude": -21.315489,
+    "longitude": -49.059177
+  },
+  {
+    "designacao": "IKG001",
+    "nome": "Site Centro Igaratá",
+    "latitude": -23.195577,
+    "longitude": -46.156808
+  },
+  {
+    "designacao": "IKG002",
+    "nome": "Site Pontal das Garças",
+    "latitude": -23.211475,
+    "longitude": -46.104299
+  },
+  {
+    "designacao": "INE001",
+    "nome": "Site Itanhaem",
+    "latitude": -24.162104,
+    "longitude": -46.752291
+  },
+  {
+    "designacao": "INE0026.854919;-24.207247",
+    "nome": "Site Itanhaem 2",
+    "latitude": -24.210426,
+    "longitude": -46.854919
+  },
+  {
+    "designacao": "IPS001",
+    "nome": "Site Iracemápolis",
+    "latitude": -22.584249,
+    "longitude": -47.506475
+  },
+  {
+    "designacao": "IPY001",
+    "nome": "Site Itapuí",
+    "latitude": -22.235181,
+    "longitude": -48.717756
+  },
+  {
+    "designacao": "IRS001",
+    "nome": "Site Assentamento Borebi",
+    "latitude": -22.697339,
+    "longitude": -49.156014
+  },
+  {
+    "designacao": "ITG001",
+    "nome": "Site Itatinga",
+    "latitude": -23.10346,
+    "longitude": -48.614026
+  },
+  {
+    "designacao": "ITU001",
+    "nome": "Site Itu",
+    "latitude": -23.26143,
+    "longitude": -47.306589
+  },
+  {
+    "designacao": "ITV001",
+    "nome": "Site Itupeva Filial",
+    "latitude": -23.15513,
+    "longitude": -47.05724
+  },
+  {
+    "designacao": "ITY001",
+    "nome": "Site Itai",
+    "latitude": -23.415493,
+    "longitude": -49.090909
+  },
+  {
+    "designacao": "IYG001",
+    "nome": "Site Centro Ibitinga",
+    "latitude": -21.757163,
+    "longitude": -48.823973
+  },
+  {
+    "designacao": "IYG002",
+    "nome": "Site Ibitinga 13 de Maio",
+    "latitude": -21.758274,
+    "longitude": -48.833994
+  },
+  {
+    "designacao": "IYG003",
+    "nome": "Site Ibitinga Casa Viva",
+    "latitude": -21.773194,
+    "longitude": -48.841163
+  },
+  {
+    "designacao": "IYG004",
+    "nome": "Site Ibitinga São francisco",
+    "latitude": -21.749976,
+    "longitude": -48.788583
+  },
+  {
+    "designacao": "JAD001",
+    "nome": "Site Jandira Centro",
+    "latitude": -23.534706,
+    "longitude": -46.90363
+  },
+  {
+    "designacao": "JAI001",
+    "nome": "Site Ermida",
+    "latitude": -23.18886,
+    "longitude": -46.964565
+  },
+  {
+    "designacao": "JAI002",
+    "nome": "Site Jundiaí_Ascenty",
+    "latitude": -23.191763,
+    "longitude": -46.974326
+  },
+  {
+    "designacao": "JAI003",
+    "nome": "Site Jundiaí Filial",
+    "latitude": -23.1669,
+    "longitude": -46.910606
+  },
+  {
+    "designacao": "JAI004",
+    "nome": "Site Nino Plaza",
+    "latitude": -23.19065,
+    "longitude": -46.889453
+  },
+  {
+    "designacao": "JAI005",
+    "nome": "Site Novo Horizonte Jundiaí",
+    "latitude": -23.14526,
+    "longitude": -46.980426
+  },
+  {
+    "designacao": "JAI006",
+    "nome": "Jundiaí - Distrito Industrial",
+    "latitude": -23.153453,
+    "longitude": -46.936159
+  },
+  {
+    "designacao": "JAL001",
+    "nome": "Site Jaboticabal",
+    "latitude": -21.25889,
+    "longitude": -48.327278
+  },
+  {
+    "designacao": "JAU001",
+    "nome": "Site A1 JAU",
+    "latitude": -22.297427,
+    "longitude": -48.557611
+  },
+  {
+    "designacao": "JAU002",
+    "nome": "Site B1 JAU",
+    "latitude": -22.281355,
+    "longitude": -48.550696
+  },
+  {
+    "designacao": "JAU003",
+    "nome": "Site POTUNDUVA",
+    "latitude": -22.366349,
+    "longitude": -48.671736
+  },
+  {
+    "designacao": "JCI001",
+    "nome": "Site Filial Jacareí",
+    "latitude": -23.305219,
+    "longitude": -45.965438
+  },
+  {
+    "designacao": "JCI002",
+    "nome": "Site Recanto dos Passaros",
+    "latitude": -23.237933,
+    "longitude": -46.067225
+  },
+  {
+    "designacao": "JGU001",
+    "nome": "Site COND. IND. FLEX PARK",
+    "latitude": -22.686995,
+    "longitude": -47.012291
+  },
+  {
+    "designacao": "JGU002",
+    "nome": "Site LAGO DA BARRA",
+    "latitude": -22.667837,
+    "longitude": -46.961709
+  },
+  {
+    "designacao": "JGU003",
+    "nome": "Site COND. TAMBORÉ",
+    "latitude": -22.679327,
+    "longitude": -47.022201
+  },
+  {
+    "designacao": "JGU004",
+    "nome": "Site Sede Netell",
+    "latitude": -22.707541,
+    "longitude": -46.989662
+  },
+  {
+    "designacao": "JGU005",
+    "nome": "Site Barracão",
+    "latitude": -22.67859,
+    "longitude": -47.003328
+  },
+  {
+    "designacao": "JGU006",
+    "nome": "Site Netell",
+    "latitude": -22.707521,
+    "longitude": -46.989706
+  },
+  {
+    "designacao": "JIU001",
+    "nome": "Site Jarinu Maracanã",
+    "latitude": -23.146424,
+    "longitude": -46.713495
+  },
+  {
+    "designacao": "JIU002",
+    "nome": "Site Jarinu (Starnet)",
+    "latitude": -23.082507,
+    "longitude": -46.705654
+  },
+  {
+    "designacao": "LEP001",
+    "nome": "Site Lençóis Paulista",
+    "latitude": -22.59796,
+    "longitude": -48.793657
+  },
+  {
+    "designacao": "LIS001",
+    "nome": "Site Lins",
+    "latitude": -21.67941,
+    "longitude": -49.748564
+  },
+  {
+    "designacao": "LME001",
+    "nome": "Site Leme",
+    "latitude": -22.18483,
+    "longitude": -47.38508
+  },
+  {
+    "designacao": "LOU001",
+    "nome": "Site Louveira",
+    "latitude": -23.079635,
+    "longitude": -46.950583
+  },
+  {
+    "designacao": "LRA001",
+    "nome": "Site Esteves",
+    "latitude": -22.57654,
+    "longitude": -47.4087
+  },
+  {
+    "designacao": "LRA002",
+    "nome": "Site Limeira Filial",
+    "latitude": -22.567365,
+    "longitude": -47.403576
+  },
+  {
+    "designacao": "LRA003",
+    "nome": "Site Nossa Senhora das Dores",
+    "latitude": -22.55559,
+    "longitude": -47.447604
+  },
+  {
+    "designacao": "LRA004",
+    "nome": "Site Santa Eulália",
+    "latitude": -22.603355,
+    "longitude": -47.406824
+  },
+  {
+    "designacao": "LRA005",
+    "nome": "Site Limeira",
+    "latitude": -22.59985,
+    "longitude": -47.396306
+  },
+  {
+    "designacao": "LRA006",
+    "nome": "Site Base Graminha",
+    "latitude": -22.59389,
+    "longitude": -47.425823
+  },
+  {
+    "designacao": "LRA007",
+    "nome": "Site Remoto Nossa Senhora das Dores",
+    "latitude": -22.553437,
+    "longitude": -47.444537
+  },
+  {
+    "designacao": "LRA008",
+    "nome": "Site Remoto Santina",
+    "latitude": -22.598343,
+    "longitude": -47.383804
+  },
+  {
+    "designacao": "LRA009",
+    "nome": "Site Antonio Ometto (Ícone)",
+    "latitude": -22.581557,
+    "longitude": -47.401164
+  },
+  {
+    "designacao": "LRA010",
+    "nome": "Site Rodeio de Limeira",
+    "latitude": -22.620937,
+    "longitude": -47.378474
+  },
+  {
+    "designacao": "MAR001",
+    "nome": "Site Terra Preta",
+    "latitude": -23.257212,
+    "longitude": -46.588133
+  },
+  {
+    "designacao": "MAT001",
+    "nome": "Site Macatuba",
+    "latitude": -22.513634,
+    "longitude": -48.716844
+  },
+  {
+    "designacao": "MCZ001",
+    "nome": "Site Maitaca",
+    "latitude": -23.574863,
+    "longitude": -46.211029
+  },
+  {
+    "designacao": "MCZ002",
+    "nome": "Site Jundiapeba",
+    "latitude": -23.55171,
+    "longitude": -46.242215
+  },
+  {
+    "designacao": "MCZ003",
+    "nome": "Site Cezar de Souza",
+    "latitude": -23.511112,
+    "longitude": -46.142606
+  },
+  {
+    "designacao": "MDU001",
+    "nome": "Site Manduri",
+    "latitude": -23.005016,
+    "longitude": -49.312072
+  },
+  {
+    "designacao": "MGG001",
+    "nome": "Site Mongagua",
+    "latitude": -24.09606,
+    "longitude": -46.624514
+  },
+  {
+    "designacao": "MGU001",
+    "nome": "Site Mogi Guaçu Filial",
+    "latitude": -22.362359,
+    "longitude": -46.945374
+  },
+  {
+    "designacao": "MGU002",
+    "nome": "Site Mogi Guaçu Itacolomi",
+    "latitude": -22.383243,
+    "longitude": -46.940577
+  },
+  {
+    "designacao": "MKC001",
+    "nome": "Site Motuca",
+    "latitude": -21.509121,
+    "longitude": -48.150612
+  },
+  {
+    "designacao": "MMM001",
+    "nome": "Site Mogi Mirim/Filial",
+    "latitude": -22.420333,
+    "longitude": -46.965167
+  },
+  {
+    "designacao": "MMM002",
+    "nome": "Site Sol Nascente",
+    "latitude": -22.497216,
+    "longitude": -46.969602
+  },
+  {
+    "designacao": "MMM003",
+    "nome": "Site JD. SANTA HELENA",
+    "latitude": -22.361319,
+    "longitude": -46.945606
+  },
+  {
+    "designacao": "MMM004",
+    "nome": "Site Martim Francisco",
+    "latitude": -22.522826,
+    "longitude": -46.956098
+  },
+  {
+    "designacao": "MNT001",
+    "nome": "Site Monte Alto",
+    "latitude": -21.26378,
+    "longitude": -48.492228
+  },
+  {
+    "designacao": "MOM001",
+    "nome": "Site Matão",
+    "latitude": -21.604522,
+    "longitude": -48.365053
+  },
+  {
+    "designacao": "MOM002",
+    "nome": "Site Matão 2",
+    "latitude": -21.597233,
+    "longitude": -48.362659
+  },
+  {
+    "designacao": "MOR001",
+    "nome": "Site Filial Monte Mor",
+    "latitude": -22.948128,
+    "longitude": -47.315639
+  },
+  {
+    "designacao": "MOR002",
+    "nome": "Site Paulista",
+    "latitude": -22.928978,
+    "longitude": -47.262881
+  },
+  {
+    "designacao": "MRS001",
+    "nome": "Site Mirassol",
+    "latitude": -20.819629,
+    "longitude": -49.513174
+  },
+  {
+    "designacao": "MTT001",
+    "nome": "Site Mineiros",
+    "latitude": -22.413582,
+    "longitude": -48.449407
+  },
+  {
+    "designacao": "NDS001",
+    "nome": "Site Odessa",
+    "latitude": -22.78019,
+    "longitude": -47.29469
+  },
+  {
+    "designacao": "NDS002",
+    "nome": "Site Alvorada",
+    "latitude": -22.80323,
+    "longitude": -47.307874
+  },
+  {
+    "designacao": "NDS003",
+    "nome": "Site Remoto Green Village",
+    "latitude": -22.800308,
+    "longitude": -47.291742
+  },
+  {
+    "designacao": "NDS004",
+    "nome": "Site Prefeitura de Nova Odessa",
+    "latitude": -22.780018,
+    "longitude": -47.298287
+  },
+  {
+    "designacao": "NEU001",
+    "nome": "Site Nova Europa Centro",
+    "latitude": -21.780934,
+    "longitude": -48.565726
+  },
+  {
+    "designacao": "NEU002",
+    "nome": "Site Nova Europa",
+    "latitude": -21.778226,
+    "longitude": -48.564967
+  },
+  {
+    "designacao": "NHT001",
+    "nome": "Site Novo Horizonte",
+    "latitude": -21.474713,
+    "longitude": -49.201347
+  },
+  {
+    "designacao": "NZP001",
+    "nome": "Site Nazaré",
+    "latitude": -23.16208,
+    "longitude": -46.397019
+  },
+  {
+    "designacao": "OCO001",
+    "nome": "Site Ascenty Osasco",
+    "latitude": -23.492115,
+    "longitude": -46.776955
+  },
+  {
+    "designacao": "OLA001",
+    "nome": "Site Olímpia",
+    "latitude": -20.73058,
+    "longitude": -48.905687
+  },
+  {
+    "designacao": "PAA001",
+    "nome": "Site Antenas",
+    "latitude": -22.673046,
+    "longitude": -47.620569
+  },
+  {
+    "designacao": "PAA002",
+    "nome": "Site Dedini",
+    "latitude": -22.67591,
+    "longitude": -47.656106
+  },
+  {
+    "designacao": "PAA003",
+    "nome": "Site InfoHelp JF",
+    "latitude": -22.74468,
+    "longitude": -47.675985
+  },
+  {
+    "designacao": "PAA004",
+    "nome": "Site Maria Claudia",
+    "latitude": -22.67575,
+    "longitude": -47.693648
+  },
+  {
+    "designacao": "PAA005",
+    "nome": "Site Piracicaba",
+    "latitude": -22.73529,
+    "longitude": -47.649029
+  },
+  {
+    "designacao": "PAA006",
+    "nome": "Site Tanquinho",
+    "latitude": -22.56885,
+    "longitude": -47.608165
+  },
+  {
+    "designacao": "PAA007",
+    "nome": "Site Piracicaba Filial",
+    "latitude": -22.73655,
+    "longitude": -47.659386
+  },
+  {
+    "designacao": "PAA008",
+    "nome": "Site Artemis",
+    "latitude": -22.729687,
+    "longitude": -47.644995
+  },
+  {
+    "designacao": "PAG001",
+    "nome": "Site Pirassununga",
+    "latitude": -22.0016,
+    "longitude": -47.4281
+  },
+  {
+    "designacao": "PDA001",
+    "nome": "POP Pedreira Filial",
+    "latitude": -22.741236,
+    "longitude": -46.905196
+  },
+  {
+    "designacao": "PDR001",
+    "nome": "Site Pederneiras",
+    "latitude": -22.347569,
+    "longitude": -48.782736
+  },
+  {
+    "designacao": "PDW001",
+    "nome": "Site Pardinho",
+    "latitude": -23.076849,
+    "longitude": -48.381151
+  },
+  {
+    "designacao": "PGD001",
+    "nome": "Site Praia Grande Filial",
+    "latitude": -24.0078,
+    "longitude": -46.430462
+  },
+  {
+    "designacao": "PGD002",
+    "nome": "Site Praia Grande Caiçara",
+    "latitude": -24.03857,
+    "longitude": -46.51093
+  },
+  {
+    "designacao": "PGD003",
+    "nome": "Site Real Netion",
+    "latitude": -24.05859,
+    "longitude": -46.55887
+  },
+  {
+    "designacao": "PGD004",
+    "nome": "Site Caiçara Netion",
+    "latitude": -24.04381,
+    "longitude": -46.52226
+  },
+  {
+    "designacao": "PGD005",
+    "nome": "Site Parque das Americas (DATACENTER)",
+    "latitude": -24.029979,
+    "longitude": -46.526483
+  },
+  {
+    "designacao": "PGD006",
+    "nome": "Site Curva",
+    "latitude": -24.030022,
+    "longitude": -46.512006
+  },
+  {
+    "designacao": "PGD007",
+    "nome": "Site Esmeralda",
+    "latitude": -24.030467,
+    "longitude": -46.520381
+  },
+  {
+    "designacao": "PGD008",
+    "nome": "Site Nova Mirim",
+    "latitude": -24.02954,
+    "longitude": -46.49376
+  },
+  {
+    "designacao": "PGD009",
+    "nome": "Site Ocian",
+    "latitude": -24.026537,
+    "longitude": -46.475301
+  },
+  {
+    "designacao": "PGD010",
+    "nome": "Site Guilhermina",
+    "latitude": -24.00313,
+    "longitude": -46.4213
+  },
+  {
+    "designacao": "PGD011",
+    "nome": "Site Vila Sonia",
+    "latitude": -23.99662,
+    "longitude": -46.45096
+  },
+  {
+    "designacao": "PIA001",
+    "nome": "Site Piratininga",
+    "latitude": -22.412807,
+    "longitude": -49.138034
+  },
+  {
+    "designacao": "PJI001",
+    "nome": "Site Pirajuí",
+    "latitude": -21.993222,
+    "longitude": -49.449133
+  },
+  {
+    "designacao": "PLA001",
+    "nome": "Site João Aranha",
+    "latitude": -22.7306,
+    "longitude": -47.17693
+  },
+  {
+    "designacao": "PLA002",
+    "nome": "Site Base Academia",
+    "latitude": -22.7299,
+    "longitude": -47.176432
+  },
+  {
+    "designacao": "PLA003",
+    "nome": "Site Village",
+    "latitude": -22.77284,
+    "longitude": -47.144136
+  },
+  {
+    "designacao": "PLA004",
+    "nome": "Site Represa",
+    "latitude": -22.76089,
+    "longitude": -47.197766
+  },
+  {
+    "designacao": "PLA005",
+    "nome": "Site Remoto Okinawa",
+    "latitude": -22.80031,
+    "longitude": -47.132491
+  },
+  {
+    "designacao": "PLA006",
+    "nome": "Site Remoto Pitagoras",
+    "latitude": -22.781225,
+    "longitude": -47.17638
+  },
+  {
+    "designacao": "PLA007",
+    "nome": "Site Remoto Cooperlotes 5",
+    "latitude": -22.785984,
+    "longitude": -47.192043
+  },
+  {
+    "designacao": "PNM001",
+    "nome": "Site Pindorama",
+    "latitude": -21.188669,
+    "longitude": -48.907068
+  },
+  {
+    "designacao": "POA001",
+    "nome": "Site Poá",
+    "latitude": -23.525957,
+    "longitude": -46.34355
+  },
+  {
+    "designacao": "PON001",
+    "nome": "Site Porangaba",
+    "latitude": -23.177044,
+    "longitude": -48.124387
+  },
+  {
+    "designacao": "PPM001",
+    "nome": "Site Campina Monte Alegre",
+    "latitude": -23.534087,
+    "longitude": -48.74237
+  },
+  {
+    "designacao": "PPM002",
+    "nome": "Site Holambra 2",
+    "latitude": -23.441237,
+    "longitude": -48.878412
+  },
+  {
+    "designacao": "PPM003",
+    "nome": "Site Paranapanema",
+    "latitude": -23.381341,
+    "longitude": -48.728713
+  },
+  {
+    "designacao": "PRC001",
+    "nome": "Site Piracaia",
+    "latitude": -23.056012,
+    "longitude": -46.351342
+  },
+  {
+    "designacao": "PRTN01",
+    "nome": "Site Pratania",
+    "latitude": -22.807207,
+    "longitude": -48.667062
+  },
+  {
+    "designacao": "PTF001",
+    "nome": "Site Filial Porto Ferreira",
+    "latitude": -21.855177,
+    "longitude": -47.478812
+  },
+  {
+    "designacao": "PTG001",
+    "nome": "Site Pitangueiras Centro",
+    "latitude": -21.009502,
+    "longitude": -48.215253
+  },
+  {
+    "designacao": "PUE001",
+    "nome": "Site Peruibe",
+    "latitude": -24.294952,
+    "longitude": -46.966975
+  },
+  {
+    "designacao": "RBB001",
+    "nome": "Site Ribeirão Bonito",
+    "latitude": -22.068123,
+    "longitude": -48.176523
+  },
+  {
+    "designacao": "RCO001",
+    "nome": "Site Rio Claro",
+    "latitude": -22.405777,
+    "longitude": -47.561825
+  },
+  {
+    "designacao": "RNO001",
+    "nome": "Site Rincão",
+    "latitude": -21.591111,
+    "longitude": -48.070778
+  },
+  {
+    "designacao": "RPO001",
+    "nome": "Nova Ribeirânia",
+    "latitude": -21.198301,
+    "longitude": -47.77066
+  },
+  {
+    "designacao": "RPO002",
+    "nome": "Site America",
+    "latitude": -21.198783,
+    "longitude": -47.800203
+  },
+  {
+    "designacao": "SAP001",
+    "nome": "Site Santo Antônio de Posse",
+    "latitude": -22.605594,
+    "longitude": -46.919662
+  },
+  {
+    "designacao": "SAP002",
+    "nome": "Site Rio da Prata",
+    "latitude": -22.605927,
+    "longitude": -47.003889
+  },
+  {
+    "designacao": "SBO001",
+    "nome": "Site São Bernardo Filial",
+    "latitude": -23.718919,
+    "longitude": -46.548434
+  },
+  {
+    "designacao": "SBO002",
+    "nome": "Site São Bernardo Imigrantes",
+    "latitude": -23.743852,
+    "longitude": -46.606383
+  },
+  {
+    "designacao": "SBO004",
+    "nome": "Site São Bernardo Anchieta",
+    "latitude": -23.66845,
+    "longitude": -46.561641
+  },
+  {
+    "designacao": "SBR001",
+    "nome": "Site Santa Branca",
+    "latitude": -23.398332,
+    "longitude": -45.882883
+  },
+  {
+    "designacao": "SCL001",
+    "nome": "Site São Carlos",
+    "latitude": -22.01113,
+    "longitude": -47.89299
+  },
+  {
+    "designacao": "SCL002",
+    "nome": "Site Aracy",
+    "latitude": -22.059972,
+    "longitude": -47.898194
+  },
+  {
+    "designacao": "SCL003",
+    "nome": "Site Faber",
+    "latitude": -22.011778,
+    "longitude": -47.923778
+  },
+  {
+    "designacao": "SCL004",
+    "nome": "Site Montreal",
+    "latitude": -21.985139,
+    "longitude": -47.926833
+  },
+  {
+    "designacao": "SCL005",
+    "nome": "Site Pier 8",
+    "latitude": -21.900944,
+    "longitude": -47.903444
+  },
+  {
+    "designacao": "SCL006",
+    "nome": "Site Santa Eudóxia",
+    "latitude": -21.773889,
+    "longitude": -47.794694
+  },
+  {
+    "designacao": "SCL007",
+    "nome": "Site Vila Prado",
+    "latitude": -22.032757,
+    "longitude": -47.895451
+  },
+  {
+    "designacao": "SCL008",
+    "nome": "Site Itaipu",
+    "latitude": -22.054889,
+    "longitude": -47.812806
+  },
+  {
+    "designacao": "SCL009",
+    "nome": "Site Village Damha III",
+    "latitude": -21.967911,
+    "longitude": -47.892862
+  },
+  {
+    "designacao": "SCL010",
+    "nome": "Site A ",
+    "latitude": -21.991667,
+    "longitude": -47.92493
+  },
+  {
+    "designacao": "SCL011",
+    "nome": "Site B e C",
+    "latitude": -22.043548,
+    "longitude": -47.890314
+  },
+  {
+    "designacao": "SCL012",
+    "nome": "Site E",
+    "latitude": -22.000382,
+    "longitude": -47.887833
+  },
+  {
+    "designacao": "SCL013",
+    "nome": "Site Episcopal (DATACENTER)",
+    "latitude": -22.014971,
+    "longitude": -47.891964
+  },
+  {
+    "designacao": "SCL014",
+    "nome": "Site Moradas 3",
+    "latitude": -21.984801,
+    "longitude": -47.938725
+  },
+  {
+    "designacao": "SCL015",
+    "nome": "Site Padre Teixeira (DATACENTER)",
+    "latitude": -22.014344,
+    "longitude": -47.893343
+  },
+  {
+    "designacao": "SCN001",
+    "nome": "Site Sao Caetano do Sul",
+    "latitude": -23.630921,
+    "longitude": -46.564476
+  },
+  {
+    "designacao": "SDL001",
+    "nome": "Site Santa Adelia",
+    "latitude": -21.245508,
+    "longitude": -48.805143
+  },
+  {
+    "designacao": "SEP001",
+    "nome": "Site Salesópolis ",
+    "latitude": -23.530524,
+    "longitude": -45.849358
+  },
+  {
+    "designacao": "SEP002",
+    "nome": "Site Remedios Salesopolis",
+    "latitude": -23.550033,
+    "longitude": -45.964792
+  },
+  {
+    "designacao": "SGD001",
+    "nome": "Site Santa Gertrudes",
+    "latitude": -22.45585,
+    "longitude": -47.531328
+  },
+  {
+    "designacao": "SJC001",
+    "nome": "Site São José dos Campos Sul",
+    "latitude": -23.248618,
+    "longitude": -45.901563
+  },
+  {
+    "designacao": "SJC002",
+    "nome": "Site São José dos Campos Filial",
+    "latitude": -23.194986,
+    "longitude": -45.893328
+  },
+  {
+    "designacao": "SJC003",
+    "nome": "Site São José dos Campos Leste",
+    "latitude": -23.172246,
+    "longitude": -45.816917
+  },
+  {
+    "designacao": "SJV001",
+    "nome": "Site São João da Boa Vista Filial",
+    "latitude": -21.975854,
+    "longitude": -46.792728
+  },
+  {
+    "designacao": "SLO001",
+    "nome": "Site Salto Filial",
+    "latitude": -23.200785,
+    "longitude": -47.28863
+  },
+  {
+    "designacao": "SML001",
+    "nome": "Site São Manuel Flamboyants",
+    "latitude": -22.750767,
+    "longitude": -48.573394
+  },
+  {
+    "designacao": "SNE001",
+    "nome": "Site Santo André",
+    "latitude": -23.634276,
+    "longitude": -46.512518
+  },
+  {
+    "designacao": "SNE002",
+    "nome": "Site Parque das Nações",
+    "latitude": -23.63392,
+    "longitude": -46.51239
+  },
+  {
+    "designacao": "SOC001",
+    "nome": "Site Sorocaba Filial",
+    "latitude": -23.49807,
+    "longitude": -47.466855
+  },
+  {
+    "designacao": "SOC002",
+    "nome": "Site Sorocaba Norte",
+    "latitude": -23.461361,
+    "longitude": -47.476463
+  },
+  {
+    "designacao": "SOC003",
+    "nome": "Site Sorocaba Leste",
+    "latitude": -23.49449,
+    "longitude": -47.434588
+  },
+  {
+    "designacao": "SOC004",
+    "nome": "Site Fasternet Sorocaba",
+    "latitude": -23.502077,
+    "longitude": -47.458348
+  },
+  {
+    "designacao": "SPO001",
+    "nome": "Site SP1",
+    "latitude": -23.546007,
+    "longitude": -46.635819
+  },
+  {
+    "designacao": "SPO002",
+    "nome": "Site SP2",
+    "latitude": -23.502824,
+    "longitude": -46.82715
+  },
+  {
+    "designacao": "SPO003",
+    "nome": "Site SP3",
+    "latitude": -23.466264,
+    "longitude": -46.863263
+  },
+  {
+    "designacao": "SPO004",
+    "nome": "Site SP4",
+    "latitude": -23.493379,
+    "longitude": -46.809313
+  },
+  {
+    "designacao": "SPO005",
+    "nome": "Site SP5",
+    "latitude": -23.572542,
+    "longitude": -46.643825
+  },
+  {
+    "designacao": "SPO006",
+    "nome": "Site Zona Leste ",
+    "latitude": -23.605994,
+    "longitude": -46.521321
+  },
+  {
+    "designacao": "SPO007",
+    "nome": "Site Barra Funda",
+    "latitude": -23.522331,
+    "longitude": -46.66384
+  },
+  {
+    "designacao": "SQL001",
+    "nome": "Site Santa Lucia",
+    "latitude": -21.696789,
+    "longitude": -48.088525
+  },
+  {
+    "designacao": "SRE001",
+    "nome": "Site Sao Roque",
+    "latitude": -23.526584,
+    "longitude": -47.152656
+  },
+  {
+    "designacao": "SRQ001",
+    "nome": "Site Santa Rita do Passa 4",
+    "latitude": -21.7093,
+    "longitude": -47.479477
+  },
+  {
+    "designacao": "SRR001",
+    "nome": "Site SJ Rio Preto Alice",
+    "latitude": -20.789053,
+    "longitude": -49.421619
+  },
+  {
+    "designacao": "SRR002",
+    "nome": "Site SJ Rio Preto B",
+    "latitude": -20.757406,
+    "longitude": -49.39174
+  },
+  {
+    "designacao": "SRR003",
+    "nome": "Site SJ Rio Preto Nazare",
+    "latitude": -20.788976,
+    "longitude": -49.355467
+  },
+  {
+    "designacao": "SRR004",
+    "nome": "Site SJ Rio Preto Catarina",
+    "latitude": -20.831174,
+    "longitude": -49.371537
+  },
+  {
+    "designacao": "SRV001",
+    "nome": "Site Centro Santa Rosa de Viterbo",
+    "latitude": -21.475716,
+    "longitude": -47.362253
+  },
+  {
+    "designacao": "SRZ001",
+    "nome": "Site Serra Azul Centro",
+    "latitude": -21.309131,
+    "longitude": -47.56654
+  },
+  {
+    "designacao": "STB001",
+    "nome": "Site Santa Bárbara Filial",
+    "latitude": -22.75696,
+    "longitude": -47.413243
+  },
+  {
+    "designacao": "STB002",
+    "nome": "Site Gramado",
+    "latitude": -22.7251,
+    "longitude": -47.362449
+  },
+  {
+    "designacao": "STB003",
+    "nome": "Site Barbara Itália",
+    "latitude": -22.76357,
+    "longitude": -47.39675
+  },
+  {
+    "designacao": "STB004",
+    "nome": "Site Castellamare",
+    "latitude": -22.75597,
+    "longitude": -47.418711
+  },
+  {
+    "designacao": "STS001",
+    "nome": "Site Santos Filial",
+    "latitude": -23.956968,
+    "longitude": -46.337527
+  },
+  {
+    "designacao": "STS002",
+    "nome": "Site Santos Santa Maria",
+    "latitude": -23.94037,
+    "longitude": -46.36883
+  },
+  {
+    "designacao": "STS003",
+    "nome": "Site Vivo STFC",
+    "latitude": -23.955608,
+    "longitude": -46.325785
+  },
+  {
+    "designacao": "SUM001",
+    "nome": "Site Sumaré Centro (DATACENTER)",
+    "latitude": -22.824447,
+    "longitude": -47.269655
+  },
+  {
+    "designacao": "SUM002",
+    "nome": "Site Base Anhanguera",
+    "latitude": -22.79133,
+    "longitude": -47.22761
+  },
+  {
+    "designacao": "SUM003",
+    "nome": "Site Maria Antônia",
+    "latitude": -22.80719,
+    "longitude": -47.196459
+  },
+  {
+    "designacao": "SUM004",
+    "nome": "Site Matão Sumaré",
+    "latitude": -22.83356,
+    "longitude": -47.161602
+  },
+  {
+    "designacao": "SUM005",
+    "nome": "Site Promac Francisco",
+    "latitude": -22.82895,
+    "longitude": -47.182919
+  },
+  {
+    "designacao": "SUM006",
+    "nome": "Site Vila Flora",
+    "latitude": -22.81758,
+    "longitude": -47.244575
+  },
+  {
+    "designacao": "SUM007",
+    "nome": "Site Cruzeiro",
+    "latitude": -22.88779,
+    "longitude": -47.300778
+  },
+  {
+    "designacao": "SUM008",
+    "nome": "Site Estância",
+    "latitude": -22.85767,
+    "longitude": -47.336035
+  },
+  {
+    "designacao": "SUM009",
+    "nome": "Site Florely",
+    "latitude": -22.79471,
+    "longitude": -47.205078
+  },
+  {
+    "designacao": "SUM010",
+    "nome": "Site Gfisco",
+    "latitude": -22.80699,
+    "longitude": -47.225494
+  },
+  {
+    "designacao": "SUM011",
+    "nome": "Site Log Sumaré",
+    "latitude": -22.82789,
+    "longitude": -47.21948
+  },
+  {
+    "designacao": "SUM012",
+    "nome": "Site Parque Floresta",
+    "latitude": -22.822869,
+    "longitude": -47.282967
+  },
+  {
+    "designacao": "SUM013",
+    "nome": "Site Picerno Paraná",
+    "latitude": -22.80494,
+    "longitude": -47.269412
+  },
+  {
+    "designacao": "SUM014",
+    "nome": "Site Real",
+    "latitude": -22.847449,
+    "longitude": -47.211854
+  },
+  {
+    "designacao": "SUM015",
+    "nome": "Site Retiro",
+    "latitude": -22.8539,
+    "longitude": -47.185093
+  },
+  {
+    "designacao": "SUM016",
+    "nome": "Site Remoto Ype Branco",
+    "latitude": -22.819017,
+    "longitude": -47.250332
+  },
+  {
+    "designacao": "SUM017",
+    "nome": "Site Remoto Regina",
+    "latitude": -22.823697,
+    "longitude": -47.168512
+  },
+  {
+    "designacao": "SUM018",
+    "nome": "Site Remoto Viver",
+    "latitude": -22.829553,
+    "longitude": -47.220242
+  },
+  {
+    "designacao": "SUM019",
+    "nome": "Site Veccon",
+    "latitude": -22.83698,
+    "longitude": -47.258947
+  },
+  {
+    "designacao": "SUM020",
+    "nome": "Site Remoto Denadai 1",
+    "latitude": -22.84173,
+    "longitude": -47.1964
+  },
+  {
+    "designacao": "SUM021",
+    "nome": "Site Remoto Matão 3 Varandas",
+    "latitude": -22.834914,
+    "longitude": -47.156486
+  },
+  {
+    "designacao": "SUM022",
+    "nome": "Site Remoto Picerno 3",
+    "latitude": -22.792968,
+    "longitude": -47.2811
+  },
+  {
+    "designacao": "SUM023",
+    "nome": "Site Remoto Picerno 4",
+    "latitude": -22.799973,
+    "longitude": -47.280435
+  },
+  {
+    "designacao": "SUM024",
+    "nome": "Site Remoto Picerno 6",
+    "latitude": -22.797336,
+    "longitude": -47.27309
+  },
+  {
+    "designacao": "SUM025",
+    "nome": "Site Remoto Picerno 7",
+    "latitude": -22.80082,
+    "longitude": -47.26936
+  },
+  {
+    "designacao": "SUM026",
+    "nome": "Site Remoto Picerno 8",
+    "latitude": -22.807202,
+    "longitude": -47.270201
+  },
+  {
+    "designacao": "SUM027",
+    "nome": "Site Remoto Picerno 9",
+    "latitude": -22.803964,
+    "longitude": -47.271623
+  },
+  {
+    "designacao": "SUM028",
+    "nome": "Site Remoto Regina 7",
+    "latitude": -22.814595,
+    "longitude": -47.171314
+  },
+  {
+    "designacao": "SUM029",
+    "nome": "Site Remoto Regina 8",
+    "latitude": -22.811902,
+    "longitude": -47.17039
+  },
+  {
+    "designacao": "SUM030",
+    "nome": "Site Remoto Veneza 7",
+    "latitude": -22.810697,
+    "longitude": -47.219776
+  },
+  {
+    "designacao": "SUM031",
+    "nome": "Site Base Ongaro",
+    "latitude": -22.82919,
+    "longitude": -47.267202
+  },
+  {
+    "designacao": "SVE001",
+    "nome": "Site São Vicente",
+    "latitude": -23.96693,
+    "longitude": -46.39419
+  },
+  {
+    "designacao": "SVE002",
+    "nome": "Site São Vicente Ponte Nova",
+    "latitude": -23.981052,
+    "longitude": -46.453569
+  },
+  {
+    "designacao": "SVE003",
+    "nome": "Site Rio Negro",
+    "latitude": -23.98631,
+    "longitude": -46.46335
+  },
+  {
+    "designacao": "SVE004",
+    "nome": "Site Nautica Nation",
+    "latitude": -23.947631,
+    "longitude": -46.418124
+  },
+  {
+    "designacao": "SVE005",
+    "nome": "Site Samarita",
+    "latitude": -23.989745,
+    "longitude": -46.472559
+  },
+  {
+    "designacao": "SVE006",
+    "nome": "Site Quarentenario",
+    "latitude": -23.98016,
+    "longitude": -46.453821
+  },
+  {
+    "designacao": "SVE007",
+    "nome": "Site Rio Branco",
+    "latitude": -23.98178,
+    "longitude": -46.45886
+  },
+  {
+    "designacao": "SVE008",
+    "nome": "Site Tancredo",
+    "latitude": -23.940149,
+    "longitude": -46.418507
+  },
+  {
+    "designacao": "SVE009",
+    "nome": "Site Parque das Bandeiras",
+    "latitude": -23.981768,
+    "longitude": -46.48915
+  },
+  {
+    "designacao": "SZS001",
+    "nome": "Site Santa Cruz das Palmeiras",
+    "latitude": -21.82694,
+    "longitude": -47.24994
+  },
+  {
+    "designacao": "TBT001",
+    "nome": "Site Tabatinga C-lig",
+    "latitude": -21.735721,
+    "longitude": -48.687664
+  },
+  {
+    "designacao": "TBT002",
+    "nome": "Site Cardilli",
+    "latitude": -21.747036,
+    "longitude": -48.57422
+  },
+  {
+    "designacao": "TBT003",
+    "nome": "Site Tabatinga A01",
+    "latitude": -21.740345,
+    "longitude": -48.688911
+  },
+  {
+    "designacao": "TGA001",
+    "nome": "SIte Taquaritinga",
+    "latitude": -21.401654,
+    "longitude": -48.500113
+  },
+  {
+    "designacao": "TTE001",
+    "nome": "Site Taubaté Filial",
+    "latitude": -23.022583,
+    "longitude": -45.552926
+  },
+  {
+    "designacao": "TTE002",
+    "nome": "Site Taubaté Nações",
+    "latitude": -23.036219,
+    "longitude": -45.586587
+  },
+  {
+    "designacao": "VGS001",
+    "nome": "Site Vargem Grande do Sul Filial",
+    "latitude": -21.832727,
+    "longitude": -46.895252
+  },
+  {
+    "designacao": "VIN001",
+    "nome": "Site Vinhedo",
+    "latitude": -23.03741,
+    "longitude": -46.984767
+  },
+  {
+    "designacao": "VOM001",
+    "nome": "Site Votorantim Filial",
+    "latitude": -23.545556,
+    "longitude": -47.449088
+  },
+  {
+    "designacao": "VOS001",
+    "nome": "Site Valinhos",
+    "latitude": -22.97689,
+    "longitude": -46.997696
+  },
+  {
+    "designacao": "VRP001",
+    "nome": "Site Varzea Paulista",
+    "latitude": -23.21384,
+    "longitude": -46.843202
+  },
+  {
+    "designacao": "ZZZ999",
+    "nome": "Rede Legada",
+    "latitude": "nan",
+    "longitude": "nan"
+  }
+]
